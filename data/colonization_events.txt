@@ -1,0 +1,2127 @@
+event "colonize Achilles"
+	system "Achilles"
+		government "Independent"
+		trade "Clothing" 262
+		trade "Electronics" 651
+		trade "Equipment" 462
+		trade "Food" 364
+		trade ""Heavy Metals"" 607
+		trade "Industrial" 770
+		trade ""Luxury Goods"" 1298
+		trade "Medical" 754
+		trade "Metal" 244
+		trade "Plastic" 415
+	planet "NO-2457"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Achlys"
+	system "Achlys"
+		government "Independent"
+		trade "Clothing" 278
+		trade "Electronics" 664
+		trade "Equipment" 451
+		trade "Food" 367
+		trade ""Heavy Metals"" 643
+		trade "Industrial" 710
+		trade ""Luxury Goods"" 1261
+		trade "Medical" 840
+		trade "Metal" 217
+		trade "Plastic" 409
+	
+
+event "colonize Achos"
+	system "Achos"
+		government "Independent"
+		trade "Clothing" 211
+		trade "Electronics" 697
+		trade "Equipment" 437
+		trade "Food" 308
+		trade ""Heavy Metals"" 610
+		trade "Industrial" 715
+		trade ""Luxury Goods"" 1311
+		trade "Medical" 734
+		trade "Metal" 211
+		trade "Plastic" 367
+	
+
+event "colonize Adephagia"
+	system "Adephagia"
+		government "Independent"
+		trade "Clothing" 305
+		trade "Electronics" 810
+		trade "Equipment" 611
+		trade "Food" 374
+		trade ""Heavy Metals"" 935
+		trade "Industrial" 787
+		trade ""Luxury Goods"" 1375
+		trade "Medical" 643
+		trade "Metal" 347
+		trade "Plastic" 477
+	planet "NO-1672"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Aether"
+	system "Aether"
+		government "Independent"
+		trade "Clothing" 237
+		trade "Electronics" 669
+		trade "Equipment" 442
+		trade "Food" 301
+		trade ""Heavy Metals"" 616
+		trade "Industrial" 760
+		trade ""Luxury Goods"" 1311
+		trade "Medical" 771
+		trade "Metal" 194
+		trade "Plastic" 420
+	planet "NO-3703"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Agathodaemon"
+	system "Agathodaemon"
+		government "Independent"
+		trade "Clothing" 314
+		trade "Electronics" 801
+		trade "Equipment" 539
+		trade "Food" 277
+		trade ""Heavy Metals"" 843
+		trade "Industrial" 802
+		trade ""Luxury Goods"" 1431
+		trade "Medical" 716
+		trade "Metal" 410
+		trade "Plastic" 435
+	planet "NO-4356"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Aiakos"
+	system "Aiakos"
+		government "Independent"
+		trade "Clothing" 330
+		trade "Electronics" 823
+		trade "Equipment" 611
+		trade "Food" 561
+		trade ""Heavy Metals"" 914
+		trade "Industrial" 904
+		trade ""Luxury Goods"" 1439
+		trade "Medical" 749
+		trade "Metal" 350
+		trade "Plastic" 501
+	
+
+event "colonize Aidos"
+	system "Aidos"
+		government "Independent"
+		trade "Clothing" 317
+		trade "Electronics" 723
+		trade "Equipment" 455
+		trade "Food" 265
+		trade ""Heavy Metals"" 796
+		trade "Industrial" 727
+		trade ""Luxury Goods"" 1364
+		trade "Medical" 686
+		trade "Metal" 282
+		trade "Plastic" 386
+	planet "NO-0723"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Aisa"
+	system "Aisa"
+		government "Independent"
+		trade "Clothing" 317
+		trade "Electronics" 811
+		trade "Equipment" 601
+		trade "Food" 313
+		trade ""Heavy Metals"" 981
+		trade "Industrial" 764
+		trade ""Luxury Goods"" 1391
+		trade "Medical" 659
+		trade "Metal" 408
+		trade "Plastic" 467
+	
+
+event "colonize Alastor"
+	system "Alastor"
+		government "Independent"
+		trade "Clothing" 264
+		trade "Electronics" 749
+		trade "Equipment" 539
+		trade "Food" 184
+		trade ""Heavy Metals"" 695
+		trade "Industrial" 742
+		trade ""Luxury Goods"" 1372
+		trade "Medical" 692
+		trade "Metal" 341
+		trade "Plastic" 383
+	planet "NO-3930"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Alcestis"
+	system "Alcestis"
+		government "Independent"
+		trade "Clothing" 304
+		trade "Electronics" 711
+		trade "Equipment" 517
+		trade "Food" 242
+		trade ""Heavy Metals"" 693
+		trade "Industrial" 700
+		trade ""Luxury Goods"" 1359
+		trade "Medical" 646
+		trade "Metal" 282
+		trade "Plastic" 392
+	planet "NO-3019"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Aletheia"
+	system "Aletheia"
+		government "Independent"
+		trade "Clothing" 295
+		trade "Electronics" 738
+		trade "Equipment" 537
+		trade "Food" 179
+		trade ""Heavy Metals"" 835
+		trade "Industrial" 713
+		trade ""Luxury Goods"" 1312
+		trade "Medical" 621
+		trade "Metal" 348
+		trade "Plastic" 371
+	planet "NO-5727"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Alke"
+	system "Alke"
+		government "Independent"
+		trade "Clothing" 329
+		trade "Electronics" 763
+		trade "Equipment" 588
+		trade "Food" 277
+		trade ""Heavy Metals"" 918
+		trade "Industrial" 769
+		trade ""Luxury Goods"" 1432
+		trade "Medical" 659
+		trade "Metal" 350
+		trade "Plastic" 480
+	planet "NO-9237"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Anaideia"
+	system "Anaideia"
+		government "Independent"
+		trade "Clothing" 203
+		trade "Electronics" 691
+		trade "Equipment" 467
+		trade "Food" 273
+		trade ""Heavy Metals"" 593
+		trade "Industrial" 687
+		trade ""Luxury Goods"" 1282
+		trade "Medical" 763
+		trade "Metal" 223
+		trade "Plastic" 376
+	
+
+event "colonize Andromache"
+	system "Andromache"
+		government "Independent"
+		trade "Clothing" 289
+		trade "Electronics" 729
+		trade "Equipment" 497
+		trade "Food" 286
+		trade ""Heavy Metals"" 855
+		trade "Industrial" 715
+		trade ""Luxury Goods"" 1299
+		trade "Medical" 742
+		trade "Metal" 308
+		trade "Plastic" 367
+	planet "NO-8724"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Anemoi"
+	system "Anemoi"
+		government "Independent"
+		trade "Clothing" 276
+		trade "Electronics" 656
+		trade "Equipment" 428
+		trade "Food" 319
+		trade ""Heavy Metals"" 607
+		trade "Industrial" 708
+		trade ""Luxury Goods"" 1264
+		trade "Medical" 850
+		trade "Metal" 308
+		trade "Plastic" 364
+	planet "NO-3357"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Ania"
+	system "Ania"
+		government "Independent"
+		trade "Clothing" 330
+		trade "Electronics" 807
+		trade "Equipment" 556
+		trade "Food" 421
+		trade ""Heavy Metals"" 898
+		trade "Industrial" 873
+		trade ""Luxury Goods"" 1513
+		trade "Medical" 781
+		trade "Metal" 408
+		trade "Plastic" 510
+	
+
+event "colonize Antigone"
+	system "Antigone"
+		government "Independent"
+		trade "Clothing" 260
+		trade "Electronics" 598
+		trade "Equipment" 400
+		trade "Food" 405
+		trade ""Heavy Metals"" 657
+		trade "Industrial" 703
+		trade ""Luxury Goods"" 1277
+		trade "Medical" 879
+		trade "Metal" 263
+		trade "Plastic" 450
+	planet "NO-3064"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Apate"
+	system "Apate"
+		government "Independent"
+		trade "Clothing" 359
+		trade "Electronics" 791
+		trade "Equipment" 621
+		trade "Food" 558
+		trade ""Heavy Metals"" 1005
+		trade "Industrial" 892
+		trade ""Luxury Goods"" 1467
+		trade "Medical" 733
+		trade "Metal" 428
+		trade "Plastic" 521
+	
+
+event "colonize Aphaea"
+	system "Aphaea"
+		government "Independent"
+		trade "Clothing" 213
+		trade "Electronics" 608
+		trade "Equipment" 392
+		trade "Food" 393
+		trade ""Heavy Metals"" 640
+		trade "Industrial" 624
+		trade ""Luxury Goods"" 1318
+		trade "Medical" 926
+		trade "Metal" 121
+		trade "Plastic" 393
+	planet "NO-7386"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Arachne"
+	system "Arachne"
+		government "Independent"
+		trade "Clothing" 353
+		trade "Electronics" 770
+		trade "Equipment" 595
+		trade "Food" 568
+		trade ""Heavy Metals"" 958
+		trade "Industrial" 886
+		trade ""Luxury Goods"" 1511
+		trade "Medical" 790
+		trade "Metal" 368
+		trade "Plastic" 494
+	
+
+event "colonize Aristaeus"
+	system "Aristaeus"
+		government "Independent"
+		trade "Clothing" 235
+		trade "Electronics" 605
+		trade "Equipment" 438
+		trade "Food" 346
+		trade ""Heavy Metals"" 643
+		trade "Industrial" 673
+		trade ""Luxury Goods"" 1300
+		trade "Medical" 924
+		trade "Metal" 202
+		trade "Plastic" 431
+	
+
+event "colonize Astraios"
+	system "Astraios"
+		government "Independent"
+		trade "Clothing" 281
+		trade "Electronics" 759
+		trade "Equipment" 547
+		trade "Food" 316
+		trade ""Heavy Metals"" 957
+		trade "Industrial" 839
+		trade ""Luxury Goods"" 1323
+		trade "Medical" 634
+		trade "Metal" 366
+		trade "Plastic" 447
+	planet "NO-8795"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Atalanta"
+	system "Atalanta"
+		government "Independent"
+		trade "Clothing" 287
+		trade "Electronics" 737
+		trade "Equipment" 471
+		trade "Food" 226
+		trade ""Heavy Metals"" 671
+		trade "Industrial" 734
+		trade ""Luxury Goods"" 1308
+		trade "Medical" 639
+		trade "Metal" 330
+		trade "Plastic" 368
+	planet "NO-3937"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Attis"
+	system "Attis"
+		government "Independent"
+		trade "Clothing" 310
+		trade "Electronics" 741
+		trade "Equipment" 544
+		trade "Food" 288
+		trade ""Heavy Metals"" 713
+		trade "Industrial" 684
+		trade ""Luxury Goods"" 1336
+		trade "Medical" 717
+		trade "Metal" 285
+		trade "Plastic" 386
+	planet "NO-9282"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Atë"
+	system "Atë"
+		government "Independent"
+		trade "Clothing" 262
+		trade "Electronics" 735
+		trade "Equipment" 503
+		trade "Food" 260
+		trade ""Heavy Metals"" 658
+		trade "Industrial" 713
+		trade ""Luxury Goods"" 1306
+		trade "Medical" 760
+		trade "Metal" 293
+		trade "Plastic" 392
+	planet "NO-7997"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Aura"
+	system "Aura"
+		government "Independent"
+		trade "Clothing" 276
+		trade "Electronics" 670
+		trade "Equipment" 439
+		trade "Food" 265
+		trade ""Heavy Metals"" 659
+		trade "Industrial" 766
+		trade ""Luxury Goods"" 1295
+		trade "Medical" 815
+		trade "Metal" 226
+		trade "Plastic" 372
+	planet "NO-7804"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Caeneus"
+	system "Caeneus"
+		government "Independent"
+		trade "Clothing" 349
+		trade "Electronics" 768
+		trade "Equipment" 592
+		trade "Food" 381
+		trade ""Heavy Metals"" 958
+		trade "Industrial" 916
+		trade ""Luxury Goods"" 1499
+		trade "Medical" 766
+		trade "Metal" 403
+		trade "Plastic" 527
+	planet "NO-1388"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Caerus"
+	system "Caerus"
+		government "Independent"
+		trade "Clothing" 275
+		trade "Electronics" 692
+		trade "Equipment" 476
+		trade "Food" 311
+		trade ""Heavy Metals"" 608
+		trade "Industrial" 660
+		trade ""Luxury Goods"" 1275
+		trade "Medical" 802
+		trade "Metal" 302
+		trade "Plastic" 382
+	planet "NO-5026"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Caicias"
+	system "Caicias"
+		government "Independent"
+		trade "Clothing" 304
+		trade "Electronics" 778
+		trade "Equipment" 526
+		trade "Food" 353
+		trade ""Heavy Metals"" 856
+		trade "Industrial" 781
+		trade ""Luxury Goods"" 1340
+		trade "Medical" 740
+		trade "Metal" 355
+		trade "Plastic" 425
+	
+
+event "colonize Cassiopeia"
+	system "Cassiopeia"
+		government "Independent"
+		trade "Clothing" 220
+		trade "Electronics" 673
+		trade "Equipment" 451
+		trade "Food" 281
+		trade ""Heavy Metals"" 569
+		trade "Industrial" 687
+		trade ""Luxury Goods"" 1305
+		trade "Medical" 836
+		trade "Metal" 199
+		trade "Plastic" 408
+	
+
+event "colonize Celaeno"
+	system "Celaeno"
+		government "Independent"
+		trade "Clothing" 249
+		trade "Electronics" 671
+		trade "Equipment" 428
+		trade "Food" 288
+		trade ""Heavy Metals"" 647
+		trade "Industrial" 732
+		trade ""Luxury Goods"" 1286
+		trade "Medical" 753
+		trade "Metal" 263
+		trade "Plastic" 360
+	
+
+event "colonize Circios"
+	system "Circios"
+		government "Independent"
+		trade "Clothing" 249
+		trade "Electronics" 644
+		trade "Equipment" 401
+		trade "Food" 348
+		trade ""Heavy Metals"" 674
+		trade "Industrial" 724
+		trade ""Luxury Goods"" 1261
+		trade "Medical" 919
+		trade "Metal" 198
+		trade "Plastic" 394
+	
+
+event "colonize Clotho"
+	system "Clotho"
+		government "Independent"
+		trade "Clothing" 300
+		trade "Electronics" 822
+		trade "Equipment" 635
+		trade "Food" 273
+		trade ""Heavy Metals"" 837
+		trade "Industrial" 784
+		trade ""Luxury Goods"" 1433
+		trade "Medical" 632
+		trade "Metal" 390
+		trade "Plastic" 465
+	planet "NO-2101"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Clytemnestra"
+	system "Clytemnestra"
+		government "Independent"
+		trade "Clothing" 334
+		trade "Electronics" 800
+		trade "Equipment" 611
+		trade "Food" 344
+		trade ""Heavy Metals"" 797
+		trade "Industrial" 834
+		trade ""Luxury Goods"" 1343
+		trade "Medical" 660
+		trade "Metal" 387
+		trade "Plastic" 440
+	planet "NO-2253"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Corus"
+	system "Corus"
+		government "Independent"
+		trade "Clothing" 324
+		trade "Electronics" 786
+		trade "Equipment" 597
+		trade "Food" 275
+		trade ""Heavy Metals"" 920
+		trade "Industrial" 821
+		trade ""Luxury Goods"" 1391
+		trade "Medical" 722
+		trade "Metal" 337
+		trade "Plastic" 462
+	planet "NO-1646"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Cyamites"
+	system "Cyamites"
+		government "Independent"
+		trade "Clothing" 336
+		trade "Electronics" 823
+		trade "Equipment" 586
+		trade "Food" 504
+		trade ""Heavy Metals"" 938
+		trade "Industrial" 856
+		trade ""Luxury Goods"" 1512
+		trade "Medical" 734
+		trade "Metal" 359
+		trade "Plastic" 514
+	planet "NO-9639"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Danaë"
+	system "Danaë"
+		government "Independent"
+		trade "Clothing" 324
+		trade "Electronics" 809
+		trade "Equipment" 588
+		trade "Food" 350
+		trade ""Heavy Metals"" 1037
+		trade "Industrial" 826
+		trade ""Luxury Goods"" 1374
+		trade "Medical" 633
+		trade "Metal" 393
+		trade "Plastic" 445
+	planet "NO-4190"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Dikaiosyne"
+	system "Dikaiosyne"
+		government "Independent"
+		trade "Clothing" 326
+		trade "Electronics" 773
+		trade "Equipment" 666
+		trade "Food" 458
+		trade ""Heavy Metals"" 902
+		trade "Industrial" 911
+		trade ""Luxury Goods"" 1461
+		trade "Medical" 790
+		trade "Metal" 355
+		trade "Plastic" 505
+	
+
+event "colonize Dionysus"
+	system "Dionysus"
+		government "Independent"
+		trade "Clothing" 303
+		trade "Electronics" 778
+		trade "Equipment" 595
+		trade "Food" 304
+		trade ""Heavy Metals"" 811
+		trade "Industrial" 778
+		trade ""Luxury Goods"" 1412
+		trade "Medical" 736
+		trade "Metal" 345
+		trade "Plastic" 470
+	planet "NO-7031"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Dysnomia"
+	system "Dysnomia"
+		government "Independent"
+		trade "Clothing" 279
+		trade "Electronics" 732
+		trade "Equipment" 470
+		trade "Food" 251
+		trade ""Heavy Metals"" 839
+		trade "Industrial" 720
+		trade ""Luxury Goods"" 1372
+		trade "Medical" 702
+		trade "Metal" 286
+		trade "Plastic" 381
+	planet "NO-2954"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Eiresione"
+	system "Eiresione"
+		government "Independent"
+		trade "Clothing" 223
+		trade "Electronics" 631
+		trade "Equipment" 402
+		trade "Food" 360
+		trade ""Heavy Metals"" 644
+		trade "Industrial" 620
+		trade ""Luxury Goods"" 1307
+		trade "Medical" 837
+		trade "Metal" 189
+		trade "Plastic" 417
+	
+
+event "colonize Electra"
+	system "Electra"
+		government "Independent"
+		trade "Clothing" 307
+		trade "Electronics" 783
+		trade "Equipment" 528
+		trade "Food" 362
+		trade ""Heavy Metals"" 1017
+		trade "Industrial" 766
+		trade ""Luxury Goods"" 1370
+		trade "Medical" 703
+		trade "Metal" 333
+		trade "Plastic" 440
+	
+
+event "colonize Elpis"
+	system "Elpis"
+		government "Independent"
+		trade "Clothing" 359
+		trade "Electronics" 798
+		trade "Equipment" 585
+		trade "Food" 446
+		trade ""Heavy Metals"" 1009
+		trade "Industrial" 870
+		trade ""Luxury Goods"" 1410
+		trade "Medical" 796
+		trade "Metal" 358
+		trade "Plastic" 495
+	
+
+event "colonize Endymion"
+	system "Endymion"
+		government "Independent"
+		trade "Clothing" 211
+		trade "Electronics" 690
+		trade "Equipment" 481
+		trade "Food" 310
+		trade ""Heavy Metals"" 581
+		trade "Industrial" 763
+		trade ""Luxury Goods"" 1289
+		trade "Medical" 770
+		trade "Metal" 255
+		trade "Plastic" 419
+	planet "NO-3487"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Eosphorus"
+	system "Eosphorus"
+		government "Independent"
+		trade "Clothing" 332
+		trade "Electronics" 792
+		trade "Equipment" 619
+		trade "Food" 278
+		trade ""Heavy Metals"" 947
+		trade "Industrial" 835
+		trade ""Luxury Goods"" 1356
+		trade "Medical" 695
+		trade "Metal" 404
+		trade "Plastic" 457
+	
+
+event "colonize Eucleia"
+	system "Eucleia"
+		government "Independent"
+		trade "Clothing" 280
+		trade "Electronics" 754
+		trade "Equipment" 528
+		trade "Food" 338
+		trade ""Heavy Metals"" 785
+		trade "Industrial" 832
+		trade ""Luxury Goods"" 1375
+		trade "Medical" 651
+		trade "Metal" 410
+		trade "Plastic" 478
+	planet "NO-0702"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Eupheme"
+	system "Eupheme"
+		government "Independent"
+		trade "Clothing" 306
+		trade "Electronics" 742
+		trade "Equipment" 550
+		trade "Food" 239
+		trade ""Heavy Metals"" 871
+		trade "Industrial" 723
+		trade ""Luxury Goods"" 1361
+		trade "Medical" 630
+		trade "Metal" 327
+		trade "Plastic" 406
+	
+
+event "colonize Eupraxia"
+	system "Eupraxia"
+		government "Independent"
+		trade "Clothing" 331
+		trade "Electronics" 798
+		trade "Equipment" 698
+		trade "Food" 429
+		trade ""Heavy Metals"" 967
+		trade "Industrial" 853
+		trade ""Luxury Goods"" 1472
+		trade "Medical" 742
+		trade "Metal" 409
+		trade "Plastic" 515
+	planet "NO-2391"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Euronotus"
+	system "Euronotus"
+		government "Independent"
+		trade "Clothing" 259
+		trade "Electronics" 658
+		trade "Equipment" 456
+		trade "Food" 265
+		trade ""Heavy Metals"" 613
+		trade "Industrial" 742
+		trade ""Luxury Goods"" 1264
+		trade "Medical" 779
+		trade "Metal" 228
+		trade "Plastic" 379
+	planet "NO-7577"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Eurus"
+	system "Eurus"
+		government "Independent"
+		trade "Clothing" 237
+		trade "Electronics" 637
+		trade "Equipment" 391
+		trade "Food" 379
+		trade ""Heavy Metals"" 650
+		trade "Industrial" 744
+		trade ""Luxury Goods"" 1299
+		trade "Medical" 936
+		trade "Metal" 138
+		trade "Plastic" 437
+	
+
+event "colonize Eusebeia"
+	system "Eusebeia"
+		government "Independent"
+		trade "Clothing" 276
+		trade "Electronics" 720
+		trade "Equipment" 512
+		trade "Food" 189
+		trade ""Heavy Metals"" 710
+		trade "Industrial" 742
+		trade ""Luxury Goods"" 1369
+		trade "Medical" 739
+		trade "Metal" 283
+		trade "Plastic" 414
+	
+
+event "colonize Euthenia"
+	system "Euthenia"
+		government "Independent"
+		trade "Clothing" 354
+		trade "Electronics" 832
+		trade "Equipment" 676
+		trade "Food" 411
+		trade ""Heavy Metals"" 949
+		trade "Industrial" 912
+		trade ""Luxury Goods"" 1516
+		trade "Medical" 829
+		trade "Metal" 400
+		trade "Plastic" 533
+	planet "NO-9649"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Hecuba"
+	system "Hecuba"
+		government "Independent"
+		trade "Clothing" 197
+		trade "Electronics" 632
+		trade "Equipment" 413
+		trade "Food" 409
+		trade ""Heavy Metals"" 716
+		trade "Industrial" 732
+		trade ""Luxury Goods"" 1260
+		trade "Medical" 923
+		trade "Metal" 139
+		trade "Plastic" 435
+	
+
+event "colonize Hedone"
+	system "Hedone"
+		government "Independent"
+		trade "Clothing" 332
+		trade "Electronics" 805
+		trade "Equipment" 571
+		trade "Food" 317
+		trade ""Heavy Metals"" 1038
+		trade "Industrial" 808
+		trade ""Luxury Goods"" 1338
+		trade "Medical" 632
+		trade "Metal" 341
+		trade "Plastic" 474
+	planet "NO-2951"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Heimarmene"
+	system "Heimarmene"
+		government "Independent"
+		trade "Clothing" 339
+		trade "Electronics" 792
+		trade "Equipment" 674
+		trade "Food" 490
+		trade ""Heavy Metals"" 899
+		trade "Industrial" 901
+		trade ""Luxury Goods"" 1409
+		trade "Medical" 795
+		trade "Metal" 355
+		trade "Plastic" 489
+	planet "NO-1792"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Hemera"
+	system "Hemera"
+		government "Independent"
+		trade "Clothing" 281
+		trade "Electronics" 828
+		trade "Equipment" 606
+		trade "Food" 295
+		trade ""Heavy Metals"" 887
+		trade "Industrial" 763
+		trade ""Luxury Goods"" 1390
+		trade "Medical" 711
+		trade "Metal" 406
+		trade "Plastic" 457
+	
+
+event "colonize Hera"
+	system "Hera"
+		government "Independent"
+		trade "Clothing" 293
+		trade "Electronics" 720
+		trade "Equipment" 558
+		trade "Food" 214
+		trade ""Heavy Metals"" 879
+		trade "Industrial" 735
+		trade ""Luxury Goods"" 1323
+		trade "Medical" 696
+		trade "Metal" 272
+		trade "Plastic" 387
+	planet "NO-5522"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Heracles"
+	system "Heracles"
+		government "Independent"
+		trade "Clothing" 345
+		trade "Electronics" 784
+		trade "Equipment" 626
+		trade "Food" 502
+		trade ""Heavy Metals"" 938
+		trade "Industrial" 881
+		trade ""Luxury Goods"" 1436
+		trade "Medical" 736
+		trade "Metal" 416
+		trade "Plastic" 487
+	
+
+event "colonize Hermione"
+	system "Hermione"
+		government "Independent"
+		trade "Clothing" 337
+		trade "Electronics" 796
+		trade "Equipment" 563
+		trade "Food" 434
+		trade ""Heavy Metals"" 1004
+		trade "Industrial" 841
+		trade ""Luxury Goods"" 1458
+		trade "Medical" 774
+		trade "Metal" 356
+		trade "Plastic" 519
+	planet "NO-5648"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Hesperus"
+	system "Hesperus"
+		government "Independent"
+		trade "Clothing" 279
+		trade "Electronics" 733
+		trade "Equipment" 479
+		trade "Food" 288
+		trade ""Heavy Metals"" 804
+		trade "Industrial" 757
+		trade ""Luxury Goods"" 1317
+		trade "Medical" 731
+		trade "Metal" 324
+		trade "Plastic" 406
+	
+
+event "colonize Homonoia"
+	system "Homonoia"
+		government "Independent"
+		trade "Clothing" 229
+		trade "Electronics" 694
+		trade "Equipment" 415
+		trade "Food" 314
+		trade ""Heavy Metals"" 585
+		trade "Industrial" 775
+		trade ""Luxury Goods"" 1275
+		trade "Medical" 751
+		trade "Metal" 255
+		trade "Plastic" 385
+	planet "NO-3040"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Horkos"
+	system "Horkos"
+		government "Independent"
+		trade "Clothing" 324
+		trade "Electronics" 768
+		trade "Equipment" 617
+		trade "Food" 332
+		trade ""Heavy Metals"" 833
+		trade "Industrial" 820
+		trade ""Luxury Goods"" 1362
+		trade "Medical" 739
+		trade "Metal" 397
+		trade "Plastic" 450
+	
+
+event "colonize Hybris"
+	system "Hybris"
+		government "Independent"
+		trade "Clothing" 327
+		trade "Electronics" 788
+		trade "Equipment" 559
+		trade "Food" 547
+		trade ""Heavy Metals"" 895
+		trade "Industrial" 919
+		trade ""Luxury Goods"" 1506
+		trade "Medical" 744
+		trade "Metal" 359
+		trade "Plastic" 487
+	planet "NO-1982"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Hymenaeus"
+	system "Hymenaeus"
+		government "Independent"
+		trade "Clothing" 223
+		trade "Electronics" 616
+		trade "Equipment" 408
+		trade "Food" 404
+		trade ""Heavy Metals"" 701
+		trade "Industrial" 652
+		trade ""Luxury Goods"" 1345
+		trade "Medical" 846
+		trade "Metal" 245
+		trade "Plastic" 461
+	
+
+event "colonize Ioke"
+	system "Ioke"
+		government "Independent"
+		trade "Clothing" 298
+		trade "Electronics" 824
+		trade "Equipment" 576
+		trade "Food" 351
+		trade ""Heavy Metals"" 969
+		trade "Industrial" 797
+		trade ""Luxury Goods"" 1334
+		trade "Medical" 694
+		trade "Metal" 382
+		trade "Plastic" 479
+	
+
+event "colonize Iphigenia"
+	system "Iphigenia"
+		government "Independent"
+		trade "Clothing" 340
+		trade "Electronics" 824
+		trade "Equipment" 651
+		trade "Food" 525
+		trade ""Heavy Metals"" 1021
+		trade "Industrial" 899
+		trade ""Luxury Goods"" 1407
+		trade "Medical" 762
+		trade "Metal" 422
+		trade "Plastic" 509
+	planet "NO-3334"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Iris"
+	system "Iris"
+		government "Independent"
+		trade "Clothing" 347
+		trade "Electronics" 784
+		trade "Equipment" 540
+		trade "Food" 358
+		trade ""Heavy Metals"" 1014
+		trade "Industrial" 778
+		trade ""Luxury Goods"" 1429
+		trade "Medical" 633
+		trade "Metal" 334
+		trade "Plastic" 457
+	planet "NO-9976"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Kakia"
+	system "Kakia"
+		government "Independent"
+		trade "Clothing" 269
+		trade "Electronics" 757
+		trade "Equipment" 541
+		trade "Food" 191
+		trade ""Heavy Metals"" 887
+		trade "Industrial" 687
+		trade ""Luxury Goods"" 1290
+		trade "Medical" 748
+		trade "Metal" 313
+		trade "Plastic" 393
+	planet "NO-7838"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Koalemos"
+	system "Koalemos"
+		government "Independent"
+		trade "Clothing" 340
+		trade "Electronics" 763
+		trade "Equipment" 621
+		trade "Food" 519
+		trade ""Heavy Metals"" 924
+		trade "Industrial" 897
+		trade ""Luxury Goods"" 1432
+		trade "Medical" 799
+		trade "Metal" 358
+		trade "Plastic" 489
+	
+
+event "colonize Kydoimos"
+	system "Kydoimos"
+		government "Independent"
+		trade "Clothing" 266
+		trade "Electronics" 734
+		trade "Equipment" 509
+		trade "Food" 181
+		trade ""Heavy Metals"" 872
+		trade "Industrial" 708
+		trade ""Luxury Goods"" 1325
+		trade "Medical" 684
+		trade "Metal" 322
+		trade "Plastic" 378
+	planet "NO-4371"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Lethe"
+	system "Lethe"
+		government "Independent"
+		trade "Clothing" 321
+		trade "Electronics" 816
+		trade "Equipment" 521
+		trade "Food" 379
+		trade ""Heavy Metals"" 981
+		trade "Industrial" 800
+		trade ""Luxury Goods"" 1418
+		trade "Medical" 643
+		trade "Metal" 408
+		trade "Plastic" 431
+	planet "NO-0512"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Limos"
+	system "Limos"
+		government "Independent"
+		trade "Clothing" 287
+		trade "Electronics" 793
+		trade "Equipment" 636
+		trade "Food" 331
+		trade ""Heavy Metals"" 1047
+		trade "Industrial" 793
+		trade ""Luxury Goods"" 1365
+		trade "Medical" 657
+		trade "Metal" 347
+		trade "Plastic" 432
+	planet "NO-1156"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Lips"
+	system "Lips"
+		government "Independent"
+		trade "Clothing" 227
+		trade "Electronics" 612
+		trade "Equipment" 443
+		trade "Food" 402
+		trade ""Heavy Metals"" 664
+		trade "Industrial" 685
+		trade ""Luxury Goods"" 1273
+		trade "Medical" 840
+		trade "Metal" 201
+		trade "Plastic" 444
+	planet "NO-6584"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Lupe"
+	system "Lupe"
+		government "Independent"
+		trade "Clothing" 308
+		trade "Electronics" 757
+		trade "Equipment" 620
+		trade "Food" 270
+		trade ""Heavy Metals"" 823
+		trade "Industrial" 762
+		trade ""Luxury Goods"" 1373
+		trade "Medical" 635
+		trade "Metal" 398
+		trade "Plastic" 440
+	
+
+event "colonize Maia"
+	system "Maia"
+		government "Independent"
+		trade "Clothing" 280
+		trade "Electronics" 785
+		trade "Equipment" 628
+		trade "Food" 299
+		trade ""Heavy Metals"" 1040
+		trade "Industrial" 793
+		trade ""Luxury Goods"" 1369
+		trade "Medical" 724
+		trade "Metal" 334
+		trade "Plastic" 467
+	planet "NO-9118"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Mania"
+	system "Mania"
+		government "Independent"
+		trade "Clothing" 325
+		trade "Electronics" 788
+		trade "Equipment" 592
+		trade "Food" 329
+		trade ""Heavy Metals"" 858
+		trade "Industrial" 774
+		trade ""Luxury Goods"" 1342
+		trade "Medical" 650
+		trade "Metal" 340
+		trade "Plastic" 452
+	
+
+event "colonize Minos"
+	system "Minos"
+		government "Independent"
+		trade "Clothing" 350
+		trade "Electronics" 785
+		trade "Equipment" 557
+		trade "Food" 345
+		trade ""Heavy Metals"" 799
+		trade "Industrial" 810
+		trade ""Luxury Goods"" 1325
+		trade "Medical" 686
+		trade "Metal" 340
+		trade "Plastic" 455
+	
+
+event "colonize Momus"
+	system "Momus"
+		government "Independent"
+		trade "Clothing" 313
+		trade "Electronics" 796
+		trade "Equipment" 619
+		trade "Food" 355
+		trade ""Heavy Metals"" 793
+		trade "Industrial" 820
+		trade ""Luxury Goods"" 1337
+		trade "Medical" 744
+		trade "Metal" 341
+		trade "Plastic" 463
+	planet "NO-2945"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Nike"
+	system "Nike"
+		government "Independent"
+		trade "Clothing" 270
+		trade "Electronics" 659
+		trade "Equipment" 428
+		trade "Food" 286
+		trade ""Heavy Metals"" 551
+		trade "Industrial" 696
+		trade ""Luxury Goods"" 1270
+		trade "Medical" 766
+		trade "Metal" 305
+		trade "Plastic" 400
+	
+
+event "colonize Nomos"
+	system "Nomos"
+		government "Independent"
+		trade "Clothing" 284
+		trade "Electronics" 740
+		trade "Equipment" 567
+		trade "Food" 182
+		trade ""Heavy Metals"" 728
+		trade "Industrial" 751
+		trade ""Luxury Goods"" 1314
+		trade "Medical" 630
+		trade "Metal" 303
+		trade "Plastic" 374
+	
+
+event "colonize Notus"
+	system "Notus"
+		government "Independent"
+		trade "Clothing" 359
+		trade "Electronics" 834
+		trade "Equipment" 662
+		trade "Food" 386
+		trade ""Heavy Metals"" 910
+		trade "Industrial" 900
+		trade ""Luxury Goods"" 1406
+		trade "Medical" 751
+		trade "Metal" 386
+		trade "Plastic" 523
+	planet "NO-6551"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Orithyia"
+	system "Orithyia"
+		government "Independent"
+		trade "Clothing" 351
+		trade "Electronics" 775
+		trade "Equipment" 682
+		trade "Food" 409
+		trade ""Heavy Metals"" 1029
+		trade "Industrial" 846
+		trade ""Luxury Goods"" 1518
+		trade "Medical" 766
+		trade "Metal" 367
+		trade "Plastic" 520
+	planet "NO-1765"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Palaemon"
+	system "Palaemon"
+		government "Independent"
+		trade "Clothing" 310
+		trade "Electronics" 827
+		trade "Equipment" 646
+		trade "Food" 297
+		trade ""Heavy Metals"" 911
+		trade "Industrial" 762
+		trade ""Luxury Goods"" 1438
+		trade "Medical" 694
+		trade "Metal" 367
+		trade "Plastic" 461
+	planet "NO-1095"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Palioxis"
+	system "Palioxis"
+		government "Independent"
+		trade "Clothing" 253
+		trade "Electronics" 636
+		trade "Equipment" 409
+		trade "Food" 365
+		trade ""Heavy Metals"" 704
+		trade "Industrial" 709
+		trade ""Luxury Goods"" 1283
+		trade "Medical" 905
+		trade "Metal" 214
+		trade "Plastic" 408
+	planet "NO-5326"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Pandia"
+	system "Pandia"
+		government "Independent"
+		trade "Clothing" 216
+		trade "Electronics" 603
+		trade "Equipment" 406
+		trade "Food" 364
+		trade ""Heavy Metals"" 649
+		trade "Industrial" 747
+		trade ""Luxury Goods"" 1342
+		trade "Medical" 862
+		trade "Metal" 153
+		trade "Plastic" 419
+	planet "NO-6288"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Peitho"
+	system "Peitho"
+		government "Independent"
+		trade "Clothing" 322
+		trade "Electronics" 812
+		trade "Equipment" 617
+		trade "Food" 481
+		trade ""Heavy Metals"" 1029
+		trade "Industrial" 883
+		trade ""Luxury Goods"" 1479
+		trade "Medical" 765
+		trade "Metal" 377
+		trade "Plastic" 511
+	
+
+event "colonize Penelope"
+	system "Penelope"
+		government "Independent"
+		trade "Clothing" 270
+		trade "Electronics" 706
+		trade "Equipment" 476
+		trade "Food" 305
+		trade ""Heavy Metals"" 587
+		trade "Industrial" 670
+		trade ""Luxury Goods"" 1305
+		trade "Medical" 753
+		trade "Metal" 302
+		trade "Plastic" 380
+	
+
+event "colonize Penia"
+	system "Penia"
+		government "Independent"
+		trade "Clothing" 313
+		trade "Electronics" 735
+		trade "Equipment" 542
+		trade "Food" 279
+		trade ""Heavy Metals"" 746
+		trade "Industrial" 741
+		trade ""Luxury Goods"" 1281
+		trade "Medical" 765
+		trade "Metal" 327
+		trade "Plastic" 406
+	planet "NO-5161"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Penthus"
+	system "Penthus"
+		government "Independent"
+		trade "Clothing" 224
+		trade "Electronics" 599
+		trade "Equipment" 402
+		trade "Food" 387
+		trade ""Heavy Metals"" 636
+		trade "Industrial" 742
+		trade ""Luxury Goods"" 1337
+		trade "Medical" 879
+		trade "Metal" 233
+		trade "Plastic" 433
+	
+
+event "colonize Pepromene"
+	system "Pepromene"
+		government "Independent"
+		trade "Clothing" 324
+		trade "Electronics" 811
+		trade "Equipment" 697
+		trade "Food" 457
+		trade ""Heavy Metals"" 1025
+		trade "Industrial" 885
+		trade ""Luxury Goods"" 1476
+		trade "Medical" 738
+		trade "Metal" 399
+		trade "Plastic" 535
+	planet "NO-1834"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Persephone"
+	system "Persephone"
+		government "Independent"
+		trade "Clothing" 342
+		trade "Electronics" 825
+		trade "Equipment" 642
+		trade "Food" 299
+		trade ""Heavy Metals"" 771
+		trade "Industrial" 793
+		trade ""Luxury Goods"" 1418
+		trade "Medical" 724
+		trade "Metal" 343
+		trade "Plastic" 478
+	planet "NO-1076"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Phaethon"
+	system "Phaethon"
+		government "Independent"
+		trade "Clothing" 288
+		trade "Electronics" 814
+		trade "Equipment" 548
+		trade "Food" 323
+		trade ""Heavy Metals"" 960
+		trade "Industrial" 774
+		trade ""Luxury Goods"" 1383
+		trade "Medical" 674
+		trade "Metal" 387
+		trade "Plastic" 462
+	
+
+event "colonize Pheme"
+	system "Pheme"
+		government "Independent"
+		trade "Clothing" 301
+		trade "Electronics" 771
+		trade "Equipment" 614
+		trade "Food" 343
+		trade ""Heavy Metals"" 967
+		trade "Industrial" 835
+		trade ""Luxury Goods"" 1322
+		trade "Medical" 692
+		trade "Metal" 330
+		trade "Plastic" 473
+	
+
+event "colonize Philoctetes"
+	system "Philoctetes"
+		government "Independent"
+		trade "Clothing" 332
+		trade "Electronics" 776
+		trade "Equipment" 665
+		trade "Food" 506
+		trade ""Heavy Metals"" 992
+		trade "Industrial" 908
+		trade ""Luxury Goods"" 1475
+		trade "Medical" 773
+		trade "Metal" 379
+		trade "Plastic" 514
+	planet "NO-7699"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Philophrosyne"
+	system "Philophrosyne"
+		government "Independent"
+		trade "Clothing" 331
+		trade "Electronics" 813
+		trade "Equipment" 700
+		trade "Food" 514
+		trade ""Heavy Metals"" 896
+		trade "Industrial" 877
+		trade ""Luxury Goods"" 1417
+		trade "Medical" 785
+		trade "Metal" 395
+		trade "Plastic" 516
+	planet "NO-6366"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Phrike"
+	system "Phrike"
+		government "Independent"
+		trade "Clothing" 330
+		trade "Electronics" 814
+		trade "Equipment" 628
+		trade "Food" 419
+		trade ""Heavy Metals"" 1006
+		trade "Industrial" 863
+		trade ""Luxury Goods"" 1474
+		trade "Medical" 768
+		trade "Metal" 383
+		trade "Plastic" 508
+	
+
+event "colonize Pistis"
+	system "Pistis"
+		government "Independent"
+		trade "Clothing" 267
+		trade "Electronics" 661
+		trade "Equipment" 454
+		trade "Food" 351
+		trade ""Heavy Metals"" 586
+		trade "Industrial" 718
+		trade ""Luxury Goods"" 1278
+		trade "Medical" 754
+		trade "Metal" 215
+		trade "Plastic" 415
+	
+
+event "colonize Plutus"
+	system "Plutus"
+		government "Independent"
+		trade "Clothing" 336
+		trade "Electronics" 837
+		trade "Equipment" 643
+		trade "Food" 535
+		trade ""Heavy Metals"" 892
+		trade "Industrial" 894
+		trade ""Luxury Goods"" 1498
+		trade "Medical" 808
+		trade "Metal" 416
+		trade "Plastic" 500
+	
+
+event "colonize Poine"
+	system "Poine"
+		government "Independent"
+		trade "Clothing" 355
+		trade "Electronics" 829
+		trade "Equipment" 612
+		trade "Food" 399
+		trade ""Heavy Metals"" 1024
+		trade "Industrial" 887
+		trade ""Luxury Goods"" 1500
+		trade "Medical" 767
+		trade "Metal" 428
+		trade "Plastic" 482
+	
+
+event "colonize Polyxena"
+	system "Polyxena"
+		government "Independent"
+		trade "Clothing" 309
+		trade "Electronics" 754
+		trade "Equipment" 454
+		trade "Food" 261
+		trade ""Heavy Metals"" 674
+		trade "Industrial" 755
+		trade ""Luxury Goods"" 1337
+		trade "Medical" 706
+		trade "Metal" 281
+		trade "Plastic" 400
+	planet "NO-3809"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Poros"
+	system "Poros"
+		government "Independent"
+		trade "Clothing" 353
+		trade "Electronics" 762
+		trade "Equipment" 718
+		trade "Food" 465
+		trade ""Heavy Metals"" 975
+		trade "Industrial" 863
+		trade ""Luxury Goods"" 1440
+		trade "Medical" 792
+		trade "Metal" 430
+		trade "Plastic" 512
+	planet "NO-6294"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Praxidike"
+	system "Praxidike"
+		government "Independent"
+		trade "Clothing" 209
+		trade "Electronics" 644
+		trade "Equipment" 395
+		trade "Food" 327
+		trade ""Heavy Metals"" 638
+		trade "Industrial" 697
+		trade ""Luxury Goods"" 1328
+		trade "Medical" 891
+		trade "Metal" 283
+		trade "Plastic" 407
+	planet "NO-5933"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Proioxis"
+	system "Proioxis"
+		government "Independent"
+		trade "Clothing" 195
+		trade "Electronics" 636
+		trade "Equipment" 401
+		trade "Food" 387
+		trade ""Heavy Metals"" 724
+		trade "Industrial" 635
+		trade ""Luxury Goods"" 1273
+		trade "Medical" 870
+		trade "Metal" 201
+		trade "Plastic" 469
+	planet "NO-5878"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Prophasis"
+	system "Prophasis"
+		government "Independent"
+		trade "Clothing" 195
+		trade "Electronics" 625
+		trade "Equipment" 432
+		trade "Food" 360
+		trade ""Heavy Metals"" 745
+		trade "Industrial" 666
+		trade ""Luxury Goods"" 1296
+		trade "Medical" 872
+		trade "Metal" 136
+		trade "Plastic" 390
+	planet "NO-1752"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Ptocheia"
+	system "Ptocheia"
+		government "Independent"
+		trade "Clothing" 264
+		trade "Electronics" 686
+		trade "Equipment" 432
+		trade "Food" 345
+		trade ""Heavy Metals"" 602
+		trade "Industrial" 747
+		trade ""Luxury Goods"" 1261
+		trade "Medical" 737
+		trade "Metal" 253
+		trade "Plastic" 360
+	planet "NO-7441"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Pyroeis"
+	system "Pyroeis"
+		government "Independent"
+		trade "Clothing" 339
+		trade "Electronics" 753
+		trade "Equipment" 554
+		trade "Food" 282
+		trade ""Heavy Metals"" 786
+		trade "Industrial" 788
+		trade ""Luxury Goods"" 1335
+		trade "Medical" 745
+		trade "Metal" 402
+		trade "Plastic" 421
+	planet "NO-7815"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Sabazios"
+	system "Sabazios"
+		government "Independent"
+		trade "Clothing" 287
+		trade "Electronics" 734
+		trade "Equipment" 515
+		trade "Food" 241
+		trade ""Heavy Metals"" 762
+		trade "Industrial" 707
+		trade ""Luxury Goods"" 1319
+		trade "Medical" 692
+		trade "Metal" 274
+		trade "Plastic" 397
+	
+
+event "colonize Semele"
+	system "Semele"
+		government "Independent"
+		trade "Clothing" 283
+		trade "Electronics" 773
+		trade "Equipment" 630
+		trade "Food" 293
+		trade ""Heavy Metals"" 899
+		trade "Industrial" 790
+		trade ""Luxury Goods"" 1435
+		trade "Medical" 709
+		trade "Metal" 381
+		trade "Plastic" 426
+	planet "NO-5225"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Sterope"
+	system "Sterope"
+		government "Independent"
+		trade "Clothing" 309
+		trade "Electronics" 825
+		trade "Equipment" 535
+		trade "Food" 336
+		trade ""Heavy Metals"" 936
+		trade "Industrial" 820
+		trade ""Luxury Goods"" 1387
+		trade "Medical" 657
+		trade "Metal" 333
+		trade "Plastic" 422
+	planet "NO-2258"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Stilbon"
+	system "Stilbon"
+		government "Independent"
+		trade "Clothing" 296
+		trade "Electronics" 764
+		trade "Equipment" 540
+		trade "Food" 295
+		trade ""Heavy Metals"" 894
+		trade "Industrial" 788
+		trade ""Luxury Goods"" 1376
+		trade "Medical" 683
+		trade "Metal" 368
+		trade "Plastic" 453
+	planet "NO-4296"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Tenes"
+	system "Tenes"
+		government "Independent"
+		trade "Clothing" 355
+		trade "Electronics" 803
+		trade "Equipment" 577
+		trade "Food" 465
+		trade ""Heavy Metals"" 997
+		trade "Industrial" 876
+		trade ""Luxury Goods"" 1491
+		trade "Medical" 764
+		trade "Metal" 351
+		trade "Plastic" 540
+	planet "NO-6897"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize "The Amphilogiai""
+	system ""The Amphilogiai""
+		government "Independent"
+		trade "Clothing" 340
+		trade "Electronics" 803
+		trade "Equipment" 551
+		trade "Food" 575
+		trade ""Heavy Metals"" 956
+		trade "Industrial" 878
+		trade ""Luxury Goods"" 1517
+		trade "Medical" 777
+		trade "Metal" 428
+		trade "Plastic" 526
+	planet "NO-5649"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize "The Arae""
+	system ""The Arae""
+		government "Independent"
+		trade "Clothing" 272
+		trade "Electronics" 719
+		trade "Equipment" 503
+		trade "Food" 204
+		trade ""Heavy Metals"" 829
+		trade "Industrial" 691
+		trade ""Luxury Goods"" 1348
+		trade "Medical" 757
+		trade "Metal" 336
+		trade "Plastic" 417
+	planet "NO-2113"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize "The Astra Planeti""
+	system ""The Astra Planeti""
+		government "Independent"
+		trade "Clothing" 241
+		trade "Electronics" 654
+		trade "Equipment" 463
+		trade "Food" 271
+		trade ""Heavy Metals"" 627
+		trade "Industrial" 739
+		trade ""Luxury Goods"" 1314
+		trade "Medical" 743
+		trade "Metal" 284
+		trade "Plastic" 408
+	planet "NO-2436"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize "The Hesperides""
+	system ""The Hesperides""
+		government "Independent"
+		trade "Clothing" 278
+		trade "Electronics" 763
+		trade "Equipment" 478
+		trade "Food" 214
+		trade ""Heavy Metals"" 873
+		trade "Industrial" 699
+		trade ""Luxury Goods"" 1376
+		trade "Medical" 653
+		trade "Metal" 332
+		trade "Plastic" 416
+	planet "NO-7083"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize "The Hysminai""
+	system ""The Hysminai""
+		government "Independent"
+		trade "Clothing" 296
+		trade "Electronics" 737
+		trade "Equipment" 518
+		trade "Food" 243
+		trade ""Heavy Metals"" 846
+		trade "Industrial" 721
+		trade ""Luxury Goods"" 1376
+		trade "Medical" 714
+		trade "Metal" 344
+		trade "Plastic" 368
+	planet "NO-2429"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize "The Leucippides""
+	system ""The Leucippides""
+		government "Independent"
+		trade "Clothing" 312
+		trade "Electronics" 734
+		trade "Equipment" 562
+		trade "Food" 223
+		trade ""Heavy Metals"" 887
+		trade "Industrial" 714
+		trade ""Luxury Goods"" 1355
+		trade "Medical" 640
+		trade "Metal" 296
+		trade "Plastic" 383
+	planet "NO-4161"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize "The Litae""
+	system ""The Litae""
+		government "Independent"
+		trade "Clothing" 336
+		trade "Electronics" 826
+		trade "Equipment" 704
+		trade "Food" 370
+		trade ""Heavy Metals"" 980
+		trade "Industrial" 864
+		trade ""Luxury Goods"" 1429
+		trade "Medical" 742
+		trade "Metal" 367
+		trade "Plastic" 521
+	
+
+event "colonize "The Machai""
+	system ""The Machai""
+		government "Independent"
+		trade "Clothing" 291
+		trade "Electronics" 720
+		trade "Equipment" 473
+		trade "Food" 287
+		trade ""Heavy Metals"" 740
+		trade "Industrial" 722
+		trade ""Luxury Goods"" 1335
+		trade "Medical" 760
+		trade "Metal" 321
+		trade "Plastic" 368
+	planet "NO-6228"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize "The Neikea""
+	system ""The Neikea""
+		government "Independent"
+		trade "Clothing" 212
+		trade "Electronics" 602
+		trade "Equipment" 390
+		trade "Food" 377
+		trade ""Heavy Metals"" 638
+		trade "Industrial" 676
+		trade ""Luxury Goods"" 1325
+		trade "Medical" 905
+		trade "Metal" 143
+		trade "Plastic" 436
+	planet "NO-6027"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize "The Oneiroi""
+	system ""The Oneiroi""
+		government "Independent"
+		trade "Clothing" 305
+		trade "Electronics" 793
+		trade "Equipment" 592
+		trade "Food" 364
+		trade ""Heavy Metals"" 933
+		trade "Industrial" 784
+		trade ""Luxury Goods"" 1410
+		trade "Medical" 658
+		trade "Metal" 348
+		trade "Plastic" 443
+	planet "NO-3329"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize "The Phonoi""
+	system ""The Phonoi""
+		government "Independent"
+		trade "Clothing" 339
+		trade "Electronics" 799
+		trade "Equipment" 548
+		trade "Food" 344
+		trade ""Heavy Metals"" 927
+		trade "Industrial" 794
+		trade ""Luxury Goods"" 1350
+		trade "Medical" 686
+		trade "Metal" 370
+		trade "Plastic" 436
+	
+
+event "colonize Thrace"
+	system "Thrace"
+		government "Independent"
+		trade "Clothing" 300
+		trade "Electronics" 751
+		trade "Equipment" 559
+		trade "Food" 353
+		trade ""Heavy Metals"" 868
+		trade "Industrial" 808
+		trade ""Luxury Goods"" 1431
+		trade "Medical" 704
+		trade "Metal" 370
+		trade "Plastic" 455
+	
+
+event "colonize Tyche"
+	system "Tyche"
+		government "Independent"
+		trade "Clothing" 206
+		trade "Electronics" 639
+		trade "Equipment" 446
+		trade "Food" 351
+		trade ""Heavy Metals"" 701
+		trade "Industrial" 713
+		trade ""Luxury Goods"" 1262
+		trade "Medical" 855
+		trade "Metal" 214
+		trade "Plastic" 441
+	planet "NO-7220"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+
+event "colonize Zephyrus"
+	system "Zephyrus"
+		government "Independent"
+		trade "Clothing" 286
+		trade "Electronics" 796
+		trade "Equipment" 582
+		trade "Food" 278
+		trade ""Heavy Metals"" 894
+		trade "Industrial" 768
+		trade ""Luxury Goods"" 1436
+		trade "Medical" 686
+		trade "Metal" 357
+		trade "Plastic" 466
+	planet "NO-9735"
+		remove attributes "colonizable"
+		add attributes "colonized"
+		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+

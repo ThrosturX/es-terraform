@@ -1,0 +1,4211 @@
+system Achilles
+	pos -2908 -1865
+	government Uninhabited
+	belt 1243
+	link Aiakos
+	link Cassiopeia
+	link "The Litae"
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava2
+		distance 371
+		period 51.6316
+	object
+		sprite planet/rock3
+		distance 710
+		period 79.5864
+	object
+		sprite planet/rock16
+		distance 1035
+		period 102.32
+	object NO-2457
+		sprite planet/forest6
+		distance 1357
+		period 122.571
+	object
+		sprite planet/desert5
+		distance 1672
+		period 140.872
+
+system Achlys
+	pos -3071 -2221
+	government Uninhabited
+	belt 1252
+	link Cyamites
+	link Sabazios
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava2
+		distance 379
+		period 52.3712
+	object
+		sprite planet/lava3
+		distance 710
+		period 79.5864
+	object
+		sprite planet/rock15
+		distance 1033
+		period 102.188
+	object
+		sprite planet/rock5
+		distance 1350
+		period 122.149
+	object
+		sprite planet/rock16
+		distance 1641
+		period 139.125
+
+system Achos
+	pos -3340 -1760
+	government Uninhabited
+	belt 1042
+	link Pandia
+	link Persephone
+	link Poine
+	link Sterope
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas5
+		distance 374
+		period 51.9096
+	object
+		sprite planet/gas16
+		distance 824
+		period 87.8924
+	object
+		sprite planet/gas18
+		distance 1309
+		period 119.663
+	object
+		sprite planet/gas7
+		distance 1792
+		period 147.534
+	object
+		sprite planet/gas12
+		distance 2278
+		period 173.129
+
+system Adephagia
+	pos -2780 -1623
+	government Uninhabited
+	belt 1237
+	link Clytemnestra
+	link Eupraxia
+	object
+		sprite star/f5-old
+		period 10
+	object
+		sprite planet/lava1
+		distance 359
+		period 50.5122
+	object
+		sprite planet/rock13
+		distance 660
+		period 75.8047
+	object
+		sprite planet/rock11
+		distance 996
+		period 99.7332
+	object NO-1672
+		sprite planet/forest5
+		distance 1288
+		period 118.38
+	object
+		sprite planet/desert0
+		distance 1627
+		period 138.333
+
+system Aether
+	pos -3217 -1717
+	government Uninhabited
+	belt 1407
+	link Endymion
+	link Plutus
+	link Sterope
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock17
+		distance 362
+		period 50.7932
+	object
+		sprite planet/rock4
+		distance 662
+		period 75.9577
+	object NO-3703
+		sprite planet/forest0
+		distance 961
+		period 97.3828
+	object
+		sprite planet/rock0
+		distance 1290
+		period 118.502
+	object
+		sprite planet/rock19
+		distance 1615
+		period 137.652
+
+system Agathodaemon
+	pos -2666 -1941
+	government Uninhabited
+	belt 1303
+	link Aletheia
+	link Iphigenia
+	link Mania
+	link Prophasis
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock6
+		distance 356
+		period 50.2304
+	object
+		sprite planet/rock8
+		distance 681
+		period 77.4042
+	object NO-4356
+		sprite planet/forest3
+		distance 971
+		period 98.0572
+	object
+		sprite planet/dust2
+		distance 1272
+		period 117.397
+	object
+		sprite planet/rock16
+		distance 1602
+		period 136.912
+
+system Aiakos
+	pos -2866 -1863
+	government Uninhabited
+	belt 1285
+	link Achilles
+	link Minos
+	link Orithyia
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/lava4
+		distance 387
+		period 53.1056
+	object
+		sprite planet/lava3
+		distance 717
+		period 80.1087
+	object
+		sprite planet/rock10
+		distance 1029
+		period 101.924
+	object
+		sprite planet/rock14
+		distance 1327
+		period 120.757
+
+system Aidos
+	pos -2796 -2072
+	government Uninhabited
+	belt 1419
+	link Celaeno
+	link Limos
+	link Philophrosyne
+	link Proioxis
+	link "The Hysminai"
+	link "The Oneiroi"
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock17
+		distance 361
+		period 50.6996
+	object
+		sprite planet/rock0
+		distance 657
+		period 75.5748
+	object NO-0723
+		sprite planet/forest5
+		distance 949
+		period 96.5704
+	object
+		sprite planet/rock18
+		distance 1279
+		period 117.828
+
+system Aisa
+	pos -2618 -2113
+	government Uninhabited
+	belt 1120
+	link Pheme
+	link Tenes
+	link "The Neikea"
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/lava7
+		distance 352
+		period 49.8534
+	object
+		sprite planet/lava2
+		distance 673
+		period 76.7968
+	object
+		sprite planet/rock6
+		distance 976
+		period 98.3935
+	object
+		sprite planet/rock4
+		distance 1279
+		period 117.828
+	object
+		sprite planet/rock17
+		distance 1612
+		period 137.481
+
+system Alastor
+	pos -3348 -2090
+	government Uninhabited
+	belt 1329
+	link Poros
+	link Pyroeis
+	link Tyche
+	object
+		sprite star/k0
+		period 10
+	object NO-3930
+		sprite planet/forest4
+		distance 351
+		period 49.759
+	object
+		sprite planet/rock13
+		distance 673
+		period 76.7968
+	object
+		sprite planet/gas16
+		distance 963
+		period 97.5179
+	object
+		sprite planet/gas19
+		distance 1429
+		period 126.869
+
+system Alcestis
+	pos -3321 -2205
+	government Uninhabited
+	belt 1365
+	link Aristaeus
+	link Hybris
+	link Poros
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava5
+		distance 390
+		period 53.3797
+	object
+		sprite planet/rock0
+		distance 688
+		period 77.9338
+	object
+		sprite planet/rock1
+		distance 1011
+		period 100.732
+	object NO-3019
+		sprite planet/forest0
+		distance 1306
+		period 119.48
+
+system Aletheia
+	pos -2708 -1935
+	government Uninhabited
+	belt 1292
+	link Agathodaemon
+	link Iphigenia
+	link Phrike
+	link Proioxis
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock2
+		distance 362
+		period 50.7932
+	object
+		sprite planet/rock13
+		distance 669
+		period 76.4922
+	object NO-5727
+		sprite planet/forest0
+		distance 976
+		period 98.3935
+	object
+		sprite planet/rock10
+		distance 1312
+		period 119.846
+	object
+		sprite planet/rock19
+		distance 1633
+		period 138.673
+
+system Alke
+	pos -2945 -1752
+	government Uninhabited
+	belt 1146
+	link Clotho
+	link Koalemos
+	link "The Machai"
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava1
+		distance 352
+		period 49.8534
+	object
+		sprite planet/rock3
+		distance 673
+		period 76.7968
+	object
+		sprite planet/rock3
+		distance 1011
+		period 100.732
+	object NO-9237
+		sprite planet/forest6
+		distance 1325
+		period 120.636
+	object
+		sprite planet/dust0
+		distance 1633
+		period 138.673
+
+system Anaideia
+	pos -2909 -2395
+	government Uninhabited
+	belt 1263
+	link Eupheme
+	link Hecuba
+	link Nomos
+	link Penia
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas7
+		distance 351
+		period 49.759
+	object
+		sprite planet/gas1
+		distance 820
+		period 87.6078
+	object
+		sprite planet/gas4
+		distance 1275
+		period 117.582
+	object
+		sprite planet/gas16
+		distance 1755
+		period 145.496
+	object
+		sprite planet/gas1
+		distance 2224
+		period 170.382
+
+system Andromache
+	pos -3274 -2315
+	government Uninhabited
+	belt 1112
+	link Heimarmene
+	link Heracles
+	link Hybris
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava3
+		distance 345
+		period 49.1903
+	object
+		sprite planet/rock17
+		distance 664
+		period 76.1106
+	object
+		sprite planet/rock2
+		distance 995
+		period 99.6664
+	object NO-8724
+		sprite planet/forest6
+		distance 1287
+		period 118.318
+
+system Anemoi
+	pos -3301 -1886
+	government Uninhabited
+	belt 1259
+	link Attis
+	link Atë
+	link Corus
+	link Iris
+	link Poine
+	object
+		sprite star/k0
+		period 10
+	object NO-3357
+		sprite planet/forest5
+		distance 375
+		period 52.0021
+	object
+		sprite planet/ice4
+		distance 713
+		period 79.8104
+	object
+		sprite planet/gas17
+		distance 1031
+		period 102.056
+	object
+		sprite planet/gas18
+		distance 1497
+		period 130.862
+	object
+		sprite planet/gas10
+		distance 1996
+		period 158.528
+
+system Ania
+	pos -2668 -1777
+	government Uninhabited
+	belt 1366
+	link Antigone
+	link Kydoimos
+	link Penthus
+	link Zephyrus
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/lava7
+		distance 388
+		period 53.1971
+	object
+		sprite planet/lava7
+		distance 681
+		period 77.4042
+	object
+		sprite planet/rock9
+		distance 996
+		period 99.7332
+	object
+		sprite planet/rock5
+		distance 1302
+		period 119.236
+
+system Antigone
+	pos -2737 -1770
+	government Uninhabited
+	belt 1489
+	link Ania
+	link Kydoimos
+	link Lupe
+	link Penthus
+	object
+		sprite star/m4
+		period 10
+	object NO-3064
+		sprite planet/forest1
+		distance 387
+		period 53.1056
+	object
+		sprite planet/gas7
+		distance 712
+		period 79.7358
+	object
+		sprite planet/gas11
+		distance 1176
+		period 111.414
+	object
+		sprite planet/gas9
+		distance 1647
+		period 139.464
+	object
+		sprite planet/gas11
+		distance 2110
+		period 164.508
+
+system Apate
+	pos -3045 -1776
+	government Uninhabited
+	belt 1364
+	link Clotho
+	link Hedone
+	link Nike
+	link "The Amphilogiai"
+	link Thrace
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas17
+		distance 382
+		period 52.6472
+	object
+		sprite planet/gas8
+		distance 873
+		period 91.3432
+	object
+		sprite planet/gas8
+		distance 1326
+		period 120.697
+	object
+		sprite planet/gas4
+		distance 1815
+		period 148.794
+
+system Aphaea
+	pos -2834 -2188
+	government Uninhabited
+	belt 1041
+	link Aura
+	link Eusebeia
+	link Palioxis
+	link Philophrosyne
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock4
+		distance 342
+		period 48.9047
+	object
+		sprite planet/rock5
+		distance 674
+		period 76.8729
+	object NO-7386
+		sprite planet/forest0
+		distance 994
+		period 99.5996
+	object
+		sprite planet/rock7
+		distance 1294
+		period 118.747
+	object
+		sprite planet/dust7
+		distance 1611
+		period 137.424
+
+system Arachne
+	pos -2655 -2217
+	government Uninhabited
+	belt 1011
+	link Dionysus
+	link Tenes
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava3
+		distance 373
+		period 51.817
+	object
+		sprite planet/lava0
+		distance 692
+		period 78.2355
+	object
+		sprite planet/lava7
+		distance 984
+		period 98.9305
+	object
+		sprite planet/lava0
+		distance 1281
+		period 117.95
+	object
+		sprite planet/lava3
+		distance 1608
+		period 137.254
+
+system Aristaeus
+	pos -3252 -2166
+	government Uninhabited
+	belt 1213
+	link Alcestis
+	link Euronotus
+	link Palaemon
+	link Poros
+	link "The Astra Planeti"
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas3
+		distance 388
+		period 53.1971
+	object
+		sprite planet/gas2
+		distance 873
+		period 91.3432
+	object
+		sprite planet/gas1
+		distance 1371
+		period 123.412
+	object
+		sprite planet/gas19
+		distance 1825
+		period 149.34
+	object
+		sprite planet/gas14
+		distance 2310
+		period 174.746
+
+system Astraios
+	pos -3063 -2141
+	government Uninhabited
+	belt 1117
+	link Atalanta
+	link Caeneus
+	link Hemera
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock17
+		distance 350
+		period 49.6644
+	object
+		sprite planet/rock2
+		distance 677
+		period 77.1008
+	object NO-8795
+		sprite planet/forest5
+		distance 971
+		period 98.0572
+	object
+		sprite planet/desert5
+		distance 1289
+		period 118.441
+	object
+		sprite planet/rock2
+		distance 1624
+		period 138.163
+
+system Atalanta
+	pos -3054 -2072
+	government Uninhabited
+	belt 1013
+	link Astraios
+	link Eosphorus
+	link Hemera
+	link Peitho
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock11
+		distance 383
+		period 52.7391
+	object
+		sprite planet/rock3
+		distance 674
+		period 76.8729
+	object NO-3937
+		sprite planet/forest0
+		distance 981
+		period 98.7293
+	object
+		sprite planet/dust7
+		distance 1286
+		period 118.257
+
+system Attis
+	pos -3259 -1877
+	government Uninhabited
+	belt 1070
+	link Anemoi
+	link Iris
+	link Poine
+	link "The Leucippides"
+	object
+		sprite star/m0
+		period 10
+	object NO-9282
+		sprite planet/forest1
+		distance 364
+		period 50.9801
+	object
+		sprite planet/gas19
+		distance 693
+		period 78.3109
+	object
+		sprite planet/gas15
+		distance 1165
+		period 110.718
+	object
+		sprite planet/gas7
+		distance 1633
+		period 138.673
+	object
+		sprite planet/gas16
+		distance 2102
+		period 164.092
+
+system Atë
+	pos -3329 -1955
+	government Uninhabited
+	belt 1113
+	link Anemoi
+	link Corus
+	link Hermione
+	link Iris
+	link Semele
+	object
+		sprite star/k0
+		period 10
+	object NO-7997
+		sprite planet/forest2
+		distance 381
+		period 52.5553
+	object
+		sprite planet/rock15
+		distance 674
+		period 76.8729
+	object
+		sprite planet/gas12
+		distance 977
+		period 98.4607
+	object
+		sprite planet/gas7
+		distance 1463
+		period 128.873
+	object
+		sprite planet/gas3
+		distance 1913
+		period 154.103
+
+system Aura
+	pos -2781 -2197
+	government Uninhabited
+	belt 1003
+	link Aphaea
+	link Dionysus
+	link Notus
+	link Palioxis
+	link Philophrosyne
+	link Pistis
+	object
+		sprite star/k5
+		period 10
+	object NO-7804
+		sprite planet/forest1
+		distance 387
+		period 53.1056
+	object
+		sprite planet/ice6
+		distance 697
+		period 78.6119
+	object
+		sprite planet/gas15
+		distance 1036
+		period 102.386
+	object
+		sprite planet/gas4
+		distance 1497
+		period 130.862
+	object
+		sprite planet/gas2
+		distance 1992
+		period 158.316
+
+system Caeneus
+	pos -3013 -2122
+	government Uninhabited
+	belt 1220
+	link Astraios
+	link Danaë
+	link Homonoia
+	link Lethe
+	object
+		sprite star/f5-old
+		period 10
+	object
+		sprite planet/lava6
+		distance 377
+		period 52.1868
+	object
+		sprite planet/rock6
+		distance 677
+		period 77.1008
+	object
+		sprite planet/rock9
+		distance 999
+		period 99.9333
+	object NO-1388
+		sprite planet/forest2
+		distance 1320
+		period 120.332
+
+system Caerus
+	pos -2988 -1915
+	government Uninhabited
+	belt 1343
+	link Cassiopeia
+	link Dikaiosyne
+	link "The Phonoi"
+	object
+		sprite star/k0
+		period 10
+	object NO-5026
+		sprite planet/forest5
+		distance 379
+		period 52.3712
+	object
+		sprite planet/ice5
+		distance 714
+		period 79.885
+	object
+		sprite planet/gas8
+		distance 1028
+		period 101.858
+	object
+		sprite planet/gas14
+		distance 1524
+		period 132.431
+
+system Caicias
+	pos -2730 -2325
+	government Uninhabited
+	belt 1098
+	link Dionysus
+	link "The Arae"
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas14
+		distance 361
+		period 50.6996
+	object
+		sprite planet/gas13
+		distance 811
+		period 86.9655
+	object
+		sprite planet/gas4
+		distance 1298
+		period 118.992
+	object
+		sprite planet/gas5
+		distance 1756
+		period 145.551
+
+system Cassiopeia
+	pos -2935 -1922
+	government Uninhabited
+	belt 1037
+	link Achilles
+	link Caerus
+	link Eiresione
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava3
+		distance 350
+		period 49.6644
+	object
+		sprite planet/lava7
+		distance 650
+		period 75.037
+	object
+		sprite planet/lava2
+		distance 956
+		period 97.0447
+	object
+		sprite planet/lava2
+		distance 1273
+		period 117.459
+
+system Celaeno
+	pos -2862 -2103
+	government Uninhabited
+	belt 1299
+	link Aidos
+	link Danaë
+	link Philophrosyne
+	link Ptocheia
+	link "The Hysminai"
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava1
+		distance 351
+		period 49.759
+	object
+		sprite planet/lava5
+		distance 649
+		period 74.96
+	object
+		sprite planet/lava2
+		distance 953
+		period 96.8416
+	object
+		sprite planet/rock9
+		distance 1255
+		period 116.349
+	object
+		sprite planet/rock11
+		distance 1566
+		period 134.853
+
+system Circios
+	pos -3149 -2315
+	government Uninhabited
+	belt 1406
+	link Heracles
+	link Penelope
+	link Sabazios
+	link Stilbon
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava2
+		distance 379
+		period 52.3712
+	object
+		sprite planet/lava7
+		distance 704
+		period 79.1374
+	object
+		sprite planet/rock11
+		distance 1042
+		period 102.781
+	object
+		sprite planet/rock5
+		distance 1354
+		period 122.39
+	object
+		sprite planet/rock5
+		distance 1692
+		period 141.993
+
+system Clotho
+	pos -3005 -1725
+	government Uninhabited
+	belt 1337
+	link Alke
+	link Apate
+	link Hedone
+	link Maia
+	link "The Machai"
+	object
+		sprite star/k5
+		period 10
+	object NO-2101
+		sprite planet/forest5
+		distance 383
+		period 52.7391
+	object
+		sprite planet/ice5
+		distance 722
+		period 80.4806
+	object
+		sprite planet/gas19
+		distance 1026
+		period 101.726
+	object
+		sprite planet/gas3
+		distance 1486
+		period 130.22
+
+system Clytemnestra
+	pos -2797 -1674
+	government Uninhabited
+	belt 1055
+	link Adephagia
+	link Kakia
+	link Koalemos
+	link Philoctetes
+	object
+		sprite star/k0
+		period 10
+	object NO-2253
+		sprite planet/forest6
+		distance 388
+		period 53.1971
+	object
+		sprite planet/ice3
+		distance 712
+		period 79.7358
+	object
+		sprite planet/gas7
+		distance 1010
+		period 100.666
+	object
+		sprite planet/gas16
+		distance 1474
+		period 129.518
+	object
+		sprite planet/gas9
+		distance 1952
+		period 156.19
+
+system Corus
+	pos -3351 -1883
+	government Uninhabited
+	belt 1331
+	link Anemoi
+	link Atë
+	link Persephone
+	link Semele
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock13
+		distance 351
+		period 49.759
+	object
+		sprite planet/rock3
+		distance 651
+		period 75.114
+	object NO-1646
+		sprite planet/forest1
+		distance 968
+		period 97.8551
+	object
+		sprite planet/dust4
+		distance 1275
+		period 117.582
+
+system Cyamites
+	pos -3125 -2190
+	government Uninhabited
+	belt 1305
+	link Achlys
+	link Eucleia
+	link Euronotus
+	link Hemera
+	link Sabazios
+	object
+		sprite star/k0
+		period 10
+	object NO-9639
+		sprite planet/forest5
+		distance 342
+		period 48.9047
+	object
+		sprite planet/rock14
+		distance 657
+		period 75.5748
+	object
+		sprite planet/gas2
+		distance 958
+		period 97.18
+	object
+		sprite planet/gas5
+		distance 1410
+		period 125.742
+	object
+		sprite planet/gas19
+		distance 1885
+		period 152.595
+
+system Danaë
+	pos -2905 -2128
+	government Uninhabited
+	belt 1250
+	link Caeneus
+	link Celaeno
+	link Homonoia
+	link Lethe
+	link Ptocheia
+	object
+		sprite star/m0
+		period 10
+	object NO-4190
+		sprite planet/forest1
+		distance 388
+		period 53.1971
+	object
+		sprite planet/gas13
+		distance 707
+		period 79.3621
+	object
+		sprite planet/gas11
+		distance 1205
+		period 113.238
+	object
+		sprite planet/gas8
+		distance 1657
+		period 140.028
+	object
+		sprite planet/gas18
+		distance 2111
+		period 164.56
+
+system Dikaiosyne
+	pos -3041 -1963
+	government Uninhabited
+	belt 1261
+	link Caerus
+	link Electra
+	link Eosphorus
+	link Eurus
+	link "The Phonoi"
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava1
+		distance 383
+		period 52.7391
+	object
+		sprite planet/lava4
+		distance 719
+		period 80.2576
+	object
+		sprite planet/lava6
+		distance 1019
+		period 101.263
+	object
+		sprite planet/rock18
+		distance 1313
+		period 119.907
+
+system Dionysus
+	pos -2727 -2259
+	government Uninhabited
+	belt 1480
+	link Arachne
+	link Aura
+	link Caicias
+	link Pistis
+	object
+		sprite star/k0
+		period 10
+	object NO-7031
+		sprite planet/forest3
+		distance 379
+		period 52.3712
+	object
+		sprite planet/rock11
+		distance 676
+		period 77.0249
+	object
+		sprite planet/gas8
+		distance 999
+		period 99.9333
+	object
+		sprite planet/gas18
+		distance 1462
+		period 128.815
+	object
+		sprite planet/gas3
+		distance 1958
+		period 156.51
+
+system Dysnomia
+	pos -2998 -2318
+	government Uninhabited
+	belt 1347
+	link Eupheme
+	link Hecuba
+	link Penelope
+	link Phaethon
+	link Polyxena
+	object
+		sprite star/k5
+		period 10
+	object NO-2954
+		sprite planet/forest0
+		distance 345
+		period 49.1903
+	object
+		sprite planet/ice4
+		distance 657
+		period 75.5748
+	object
+		sprite planet/gas17
+		distance 982
+		period 98.7964
+	object
+		sprite planet/gas9
+		distance 1448
+		period 127.991
+	object
+		sprite planet/gas3
+		distance 1909
+		period 153.888
+
+system Eiresione
+	pos -2911 -1977
+	government Uninhabited
+	belt 1337
+	link Cassiopeia
+	link Electra
+	link Ptocheia
+	link "The Hysminai"
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava5
+		distance 353
+		period 49.9478
+	object
+		sprite planet/lava6
+		distance 685
+		period 77.707
+	object
+		sprite planet/lava4
+		distance 1016
+		period 101.064
+	object
+		sprite planet/rock18
+		distance 1329
+		period 120.879
+	object
+		sprite planet/rock2
+		distance 1622
+		period 138.049
+
+system Electra
+	pos -2985 -2019
+	government Uninhabited
+	belt 1321
+	link Dikaiosyne
+	link Eiresione
+	link Homonoia
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava3
+		distance 373
+		period 51.817
+	object
+		sprite planet/lava1
+		distance 667
+		period 76.3397
+	object
+		sprite planet/rock2
+		distance 977
+		period 98.4607
+	object
+		sprite planet/rock1
+		distance 1314
+		period 119.968
+	object
+		sprite planet/rock4
+		distance 1628
+		period 138.389
+
+system Elpis
+	pos -3191 -2089
+	government Uninhabited
+	belt 1273
+	link Eucleia
+	link Palaemon
+	link Peitho
+	link Praxidike
+	link "The Astra Planeti"
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/lava0
+		distance 385
+		period 52.9225
+	object
+		sprite planet/lava2
+		distance 690
+		period 78.0847
+	object
+		sprite planet/rock3
+		distance 1014
+		period 100.931
+	object
+		sprite planet/rock0
+		distance 1352
+		period 122.269
+
+system Endymion
+	pos -3219 -1787
+	government Uninhabited
+	belt 1413
+	link Aether
+	link Poine
+	link Sterope
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava7
+		distance 385
+		period 52.9225
+	object
+		sprite planet/rock7
+		distance 696
+		period 78.5367
+	object
+		sprite planet/rock13
+		distance 1036
+		period 102.386
+	object NO-3487
+		sprite planet/forest2
+		distance 1373
+		period 123.532
+	object
+		sprite planet/dust7
+		distance 1694
+		period 142.105
+
+system Eosphorus
+	pos -3105 -2015
+	government Uninhabited
+	belt 1350
+	link Atalanta
+	link Dikaiosyne
+	link Eurus
+	link Peitho
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava4
+		distance 373
+		period 51.817
+	object
+		sprite planet/lava4
+		distance 686
+		period 77.7827
+	object
+		sprite planet/lava3
+		distance 1001
+		period 100.067
+	object
+		sprite planet/lava7
+		distance 1291
+		period 118.564
+
+system Eucleia
+	pos -3150 -2143
+	government Uninhabited
+	belt 1306
+	link Cyamites
+	link Elpis
+	link Euronotus
+	link Hemera
+	link Peitho
+	link "The Astra Planeti"
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava0
+		distance 389
+		period 53.2884
+	object
+		sprite planet/rock8
+		distance 704
+		period 79.1374
+	object
+		sprite planet/rock15
+		distance 1001
+		period 100.067
+	object NO-0702
+		sprite planet/forest6
+		distance 1304
+		period 119.358
+
+system Eupheme
+	pos -2989 -2367
+	government Uninhabited
+	belt 1254
+	link Anaideia
+	link Dysnomia
+	link Hecuba
+	link Penia
+	link Phaethon
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava2
+		distance 349
+		period 49.5698
+	object
+		sprite planet/lava6
+		distance 668
+		period 76.416
+	object
+		sprite planet/rock6
+		distance 977
+		period 98.4607
+	object
+		sprite planet/rock13
+		distance 1297
+		period 118.93
+	object
+		sprite planet/rock7
+		distance 1598
+		period 136.684
+
+system Eupraxia
+	pos -2859 -1587
+	government Uninhabited
+	belt 1446
+	link Adephagia
+	object
+		sprite star/f5-old
+		period 10
+	object
+		sprite planet/lava1
+		distance 344
+		period 49.0952
+	object
+		sprite planet/rock6
+		distance 647
+		period 74.806
+	object
+		sprite planet/rock14
+		distance 943
+		period 96.163
+	object NO-2391
+		sprite planet/forest4
+		distance 1268
+		period 117.151
+
+system Euronotus
+	pos -3172 -2195
+	government Uninhabited
+	belt 1090
+	link Aristaeus
+	link Cyamites
+	link Eucleia
+	link Sabazios
+	link "The Astra Planeti"
+	object
+		sprite star/m0
+		period 10
+	object NO-7577
+		sprite planet/forest3
+		distance 374
+		period 51.9096
+	object
+		sprite planet/gas5
+		distance 675
+		period 76.9489
+	object
+		sprite planet/gas8
+		distance 1170
+		period 111.034
+	object
+		sprite planet/gas8
+		distance 1629
+		period 138.446
+
+system Eurus
+	pos -3133 -1984
+	government Uninhabited
+	belt 1495
+	link Dikaiosyne
+	link Eosphorus
+	link Hera
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas10
+		distance 357
+		period 50.3244
+	object
+		sprite planet/gas18
+		distance 814
+		period 87.1799
+	object
+		sprite planet/gas18
+		distance 1296
+		period 118.869
+	object
+		sprite planet/gas13
+		distance 1781
+		period 146.93
+	object
+		sprite planet/gas14
+		distance 2246
+		period 171.504
+
+system Eusebeia
+	pos -2880 -2217
+	government Uninhabited
+	belt 1315
+	link Aphaea
+	link Hymenaeus
+	link Lethe
+	link Palioxis
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava1
+		distance 376
+		period 52.0945
+	object
+		sprite planet/lava0
+		distance 689
+		period 78.0093
+	object
+		sprite planet/lava7
+		distance 1020
+		period 101.329
+	object
+		sprite planet/rock18
+		distance 1326
+		period 120.697
+	object
+		sprite planet/rock2
+		distance 1656
+		period 139.972
+
+system Euthenia
+	pos -3126 -1631
+	government Uninhabited
+	belt 1164
+	link Horkos
+	link Plutus
+	object
+		sprite star/k5
+		period 10
+	object NO-9649
+		sprite planet/forest6
+		distance 386
+		period 53.0141
+	object
+		sprite planet/ice2
+		distance 676
+		period 77.0249
+	object
+		sprite planet/gas10
+		distance 980
+		period 98.6622
+	object
+		sprite planet/gas11
+		distance 1464
+		period 128.932
+
+system Hecuba
+	pos -2932 -2345
+	government Uninhabited
+	belt 1295
+	link Anaideia
+	link Dysnomia
+	link Eupheme
+	link Hymenaeus
+	link Nomos
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas11
+		distance 359
+		period 50.5122
+	object
+		sprite planet/gas4
+		distance 813
+		period 87.1085
+	object
+		sprite planet/gas2
+		distance 1291
+		period 118.564
+	object
+		sprite planet/gas15
+		distance 1769
+		period 146.269
+
+system Hedone
+	pos -3057 -1725
+	government Uninhabited
+	belt 1074
+	link Apate
+	link Clotho
+	link Horkos
+	link Maia
+	link Thrace
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock2
+		distance 359
+		period 50.5122
+	object
+		sprite planet/rock1
+		distance 654
+		period 75.3445
+	object NO-2951
+		sprite planet/forest3
+		distance 948
+		period 96.5026
+	object
+		sprite planet/desert8
+		distance 1274
+		period 117.52
+	object
+		sprite planet/desert7
+		distance 1601
+		period 136.855
+
+system Heimarmene
+	pos -3239 -2259
+	government Uninhabited
+	belt 1388
+	link Andromache
+	link Heracles
+	link Hybris
+	object
+		sprite star/f5-old
+		period 10
+	object
+		sprite planet/lava1
+		distance 384
+		period 52.8308
+	object
+		sprite planet/rock18
+		distance 722
+		period 80.4806
+	object
+		sprite planet/rock16
+		distance 1052
+		period 103.437
+	object NO-1792
+		sprite planet/forest4
+		distance 1385
+		period 124.251
+
+system Hemera
+	pos -3105 -2114
+	government Uninhabited
+	belt 1217
+	link Astraios
+	link Atalanta
+	link Cyamites
+	link Eucleia
+	link Peitho
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava0
+		distance 369
+		period 51.4459
+	object
+		sprite planet/lava0
+		distance 691
+		period 78.1601
+	object
+		sprite planet/lava1
+		distance 994
+		period 99.5996
+	object
+		sprite planet/lava2
+		distance 1296
+		period 118.869
+	object
+		sprite planet/lava4
+		distance 1629
+		period 138.446
+
+system Hera
+	pos -3117 -1902
+	government Uninhabited
+	belt 1305
+	link Eurus
+	link Lips
+	link Nike
+	link "The Phonoi"
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock16
+		distance 377
+		period 52.1868
+	object
+		sprite planet/rock4
+		distance 717
+		period 80.1087
+	object NO-5522
+		sprite planet/forest1
+		distance 1048
+		period 103.175
+	object
+		sprite planet/dust7
+		distance 1342
+		period 121.666
+	object
+		sprite planet/rock10
+		distance 1644
+		period 139.295
+
+system Heracles
+	pos -3219 -2327
+	government Uninhabited
+	belt 1041
+	link Andromache
+	link Circios
+	link Heimarmene
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava3
+		distance 355
+		period 50.1363
+	object
+		sprite planet/lava2
+		distance 676
+		period 77.0249
+	object
+		sprite planet/lava3
+		distance 998
+		period 99.8666
+	object
+		sprite planet/lava5
+		distance 1299
+		period 119.053
+
+system Hermione
+	pos -3308 -2009
+	government Uninhabited
+	belt 1338
+	link Atë
+	link Iris
+	link Praxidike
+	link Pyroeis
+	object
+		sprite star/k0
+		period 10
+	object NO-5648
+		sprite planet/forest1
+		distance 370
+		period 51.5388
+	object
+		sprite planet/rock10
+		distance 661
+		period 75.8812
+	object
+		sprite planet/gas19
+		distance 961
+		period 97.3828
+	object
+		sprite planet/gas15
+		distance 1459
+		period 128.638
+
+system Hesperus
+	pos -2974 -1630
+	government Uninhabited
+	belt 1049
+	link Maia
+	link Momus
+	link "The Machai"
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas11
+		distance 383
+		period 52.7391
+	object
+		sprite planet/gas6
+		distance 851
+		period 89.8021
+	object
+		sprite planet/gas3
+		distance 1325
+		period 120.636
+	object
+		sprite planet/gas12
+		distance 1807
+		period 148.356
+	object
+		sprite planet/gas1
+		distance 2276
+		period 173.027
+
+system Homonoia
+	pos -2972 -2054
+	government Uninhabited
+	belt 1307
+	link Caeneus
+	link Danaë
+	link Electra
+	link Ptocheia
+	object
+		sprite star/k5
+		period 10
+	object NO-3040
+		sprite planet/forest2
+		distance 373
+		period 51.817
+	object
+		sprite planet/ice8
+		distance 679
+		period 77.2526
+	object
+		sprite planet/gas1
+		distance 989
+		period 99.2653
+	object
+		sprite planet/gas9
+		distance 1488
+		period 130.337
+	object
+		sprite planet/gas9
+		distance 1969
+		period 157.095
+
+system Horkos
+	pos -3079 -1650
+	government Uninhabited
+	belt 1425
+	link Euthenia
+	link Hedone
+	link Maia
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava2
+		distance 388
+		period 53.1971
+	object
+		sprite planet/lava4
+		distance 711
+		period 79.6611
+	object
+		sprite planet/lava0
+		distance 1019
+		period 101.263
+	object
+		sprite planet/lava3
+		distance 1349
+		period 122.088
+	object
+		sprite planet/lava0
+		distance 1681
+		period 141.377
+
+system Hybris
+	pos -3314 -2250
+	government Uninhabited
+	belt 1493
+	link Alcestis
+	link Andromache
+	link Heimarmene
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava7
+		distance 384
+		period 52.8308
+	object
+		sprite planet/rock2
+		distance 721
+		period 80.4063
+	object
+		sprite planet/rock12
+		distance 1058
+		period 103.83
+	object NO-1982
+		sprite planet/forest6
+		distance 1355
+		period 122.45
+	object
+		sprite planet/rock12
+		distance 1678
+		period 141.209
+
+system Hymenaeus
+	pos -2927 -2264
+	government Uninhabited
+	belt 1018
+	link Eusebeia
+	link Hecuba
+	link Lethe
+	link Polyxena
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/lava6
+		distance 381
+		period 52.5553
+	object
+		sprite planet/lava4
+		distance 700
+		period 78.8374
+	object
+		sprite planet/rock2
+		distance 1000
+		period 100
+	object
+		sprite planet/rock2
+		distance 1340
+		period 121.545
+	object
+		sprite planet/rock4
+		distance 1641
+		period 139.125
+
+system Ioke
+	pos -2795 -1961
+	government Uninhabited
+	belt 1348
+	link Iphigenia
+	link Limos
+	link Orithyia
+	link Phrike
+	link Proioxis
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava2
+		distance 340
+		period 48.7139
+	object
+		sprite planet/lava0
+		distance 678
+		period 77.1767
+	object
+		sprite planet/lava5
+		distance 1001
+		period 100.067
+	object
+		sprite planet/rock14
+		distance 1308
+		period 119.602
+	object
+		sprite planet/rock2
+		distance 1638
+		period 138.956
+
+system Iphigenia
+	pos -2711 -1986
+	government Uninhabited
+	belt 1087
+	link Agathodaemon
+	link Aletheia
+	link Ioke
+	link Proioxis
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava4
+		distance 354
+		period 50.0421
+	object
+		sprite planet/rock16
+		distance 659
+		period 75.7281
+	object
+		sprite planet/rock7
+		distance 981
+		period 98.7293
+	object NO-3334
+		sprite planet/forest4
+		distance 1313
+		period 119.907
+	object
+		sprite planet/desert6
+		distance 1647
+		period 139.464
+
+system Iris
+	pos -3258 -1954
+	government Uninhabited
+	belt 1038
+	link Anemoi
+	link Attis
+	link Atë
+	link Hermione
+	link Praxidike
+	link "The Leucippides"
+	object
+		sprite star/m0
+		period 10
+	object NO-9976
+		sprite planet/forest0
+		distance 378
+		period 52.2791
+	object
+		sprite planet/gas19
+		distance 707
+		period 79.3621
+	object
+		sprite planet/gas10
+		distance 1206
+		period 113.3
+	object
+		sprite planet/gas15
+		distance 1674
+		period 140.984
+	object
+		sprite planet/gas12
+		distance 2142
+		period 166.168
+
+system Kakia
+	pos -2834 -1746
+	government Uninhabited
+	belt 1127
+	link Clytemnestra
+	link Koalemos
+	link Lupe
+	link Minos
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava7
+		distance 383
+		period 52.7391
+	object
+		sprite planet/rock17
+		distance 707
+		period 79.3621
+	object
+		sprite planet/rock1
+		distance 1014
+		period 100.931
+	object NO-7838
+		sprite planet/forest4
+		distance 1336
+		period 121.303
+	object
+		sprite planet/dust2
+		distance 1636
+		period 138.842
+
+system Koalemos
+	pos -2870 -1698
+	government Uninhabited
+	belt 1109
+	link Alke
+	link Clytemnestra
+	link Kakia
+	link "The Machai"
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas18
+		distance 387
+		period 53.1056
+	object
+		sprite planet/gas9
+		distance 838
+		period 88.8852
+	object
+		sprite planet/gas4
+		distance 1335
+		period 121.242
+	object
+		sprite planet/gas8
+		distance 1788
+		period 147.314
+
+system Kydoimos
+	pos -2707 -1726
+	government Uninhabited
+	belt 1213
+	link Ania
+	link Antigone
+	link Philoctetes
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava3
+		distance 388
+		period 53.1971
+	object
+		sprite planet/rock6
+		distance 715
+		period 79.9596
+	object
+		sprite planet/rock9
+		distance 1052
+		period 103.437
+	object NO-4371
+		sprite planet/forest3
+		distance 1356
+		period 122.51
+	object
+		sprite planet/dust1
+		distance 1668
+		period 140.647
+
+system Lethe
+	pos -2996 -2174
+	government Uninhabited
+	belt 1357
+	link Caeneus
+	link Danaë
+	link Eusebeia
+	link Hymenaeus
+	link Polyxena
+	object
+		sprite star/k5
+		period 10
+	object NO-0512
+		sprite planet/forest3
+		distance 353
+		period 49.9478
+	object
+		sprite planet/ice0
+		distance 645
+		period 74.6517
+	object
+		sprite planet/gas14
+		distance 953
+		period 96.8416
+	object
+		sprite planet/gas10
+		distance 1434
+		period 127.165
+
+system Limos
+	pos -2812 -2008
+	government Uninhabited
+	belt 1038
+	link Aidos
+	link Ioke
+	link Proioxis
+	link "The Hysminai"
+	object
+		sprite star/f5-old
+		period 10
+	object
+		sprite planet/lava3
+		distance 371
+		period 51.6316
+	object
+		sprite planet/rock18
+		distance 696
+		period 78.5367
+	object
+		sprite planet/rock12
+		distance 1012
+		period 100.798
+	object NO-1156
+		sprite planet/forest5
+		distance 1348
+		period 122.028
+	object
+		sprite planet/dust6
+		distance 1671
+		period 140.816
+
+system Lips
+	pos -3163 -1879
+	government Uninhabited
+	belt 1183
+	link Hera
+	link Nike
+	link "The Leucippides"
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava5
+		distance 387
+		period 53.1056
+	object
+		sprite planet/rock10
+		distance 721
+		period 80.4063
+	object
+		sprite planet/rock0
+		distance 1044
+		period 102.912
+	object NO-6584
+		sprite planet/forest1
+		distance 1345
+		period 121.847
+
+system Lupe
+	pos -2786 -1767
+	government Uninhabited
+	belt 1262
+	link Antigone
+	link Kakia
+	link Minos
+	link Penthus
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/lava6
+		distance 360
+		period 50.606
+	object
+		sprite planet/lava3
+		distance 662
+		period 75.9577
+	object
+		sprite planet/rock18
+		distance 963
+		period 97.5179
+	object
+		sprite planet/rock10
+		distance 1300
+		period 119.114
+	object
+		sprite planet/rock18
+		distance 1607
+		period 137.197
+
+system Maia
+	pos -3001 -1681
+	government Uninhabited
+	belt 1169
+	link Clotho
+	link Hedone
+	link Hesperus
+	link Horkos
+	link "The Machai"
+	object
+		sprite star/k5
+		period 10
+	object NO-9118
+		sprite planet/forest4
+		distance 357
+		period 50.3244
+	object
+		sprite planet/ice2
+		distance 657
+		period 75.5748
+	object
+		sprite planet/gas9
+		distance 949
+		period 96.5704
+	object
+		sprite planet/gas2
+		distance 1418
+		period 126.217
+
+system Mania
+	pos -2614 -1937
+	government Uninhabited
+	belt 1339
+	link Agathodaemon
+	link Prophasis
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas12
+		distance 389
+		period 53.2884
+	object
+		sprite planet/gas10
+		distance 846
+		period 89.45
+	object
+		sprite planet/gas5
+		distance 1341
+		period 121.605
+	object
+		sprite planet/gas9
+		distance 1810
+		period 148.52
+	object
+		sprite planet/gas8
+		distance 2280
+		period 173.23
+
+system Minos
+	pos -2825 -1820
+	government Uninhabited
+	belt 1397
+	link Aiakos
+	link Kakia
+	link Lupe
+	link Orithyia
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava6
+		distance 368
+		period 51.3529
+	object
+		sprite planet/lava3
+		distance 658
+		period 75.6515
+	object
+		sprite planet/lava3
+		distance 959
+		period 97.2476
+	object
+		sprite planet/lava3
+		distance 1272
+		period 117.397
+	object
+		sprite planet/lava5
+		distance 1567
+		period 134.911
+
+system Momus
+	pos -3024 -1577
+	government Uninhabited
+	belt 1422
+	link Hesperus
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock6
+		distance 364
+		period 50.9801
+	object
+		sprite planet/rock13
+		distance 695
+		period 78.4615
+	object NO-2945
+		sprite planet/forest5
+		distance 998
+		period 99.8666
+	object
+		sprite planet/rock18
+		distance 1325
+		period 120.636
+	object
+		sprite planet/desert3
+		distance 1633
+		period 138.673
+
+system Nike
+	pos -3103 -1825
+	government Uninhabited
+	belt 1393
+	link Apate
+	link Hera
+	link Lips
+	link "The Amphilogiai"
+	link "The Phonoi"
+	link Thrace
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/lava2
+		distance 343
+		period 49
+	object
+		sprite planet/lava5
+		distance 671
+		period 76.6446
+	object
+		sprite planet/rock16
+		distance 991
+		period 99.3991
+	object
+		sprite planet/rock2
+		distance 1287
+		period 118.318
+
+system Nomos
+	pos -2851 -2371
+	government Uninhabited
+	belt 1139
+	link Anaideia
+	link Hecuba
+	link "The Arae"
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas9
+		distance 389
+		period 53.2884
+	object
+		sprite planet/gas8
+		distance 864
+		period 90.7143
+	object
+		sprite planet/gas12
+		distance 1338
+		period 121.424
+	object
+		sprite planet/gas12
+		distance 1790
+		period 147.424
+
+system Notus
+	pos -2728 -2127
+	government Uninhabited
+	belt 1095
+	link Aura
+	link Pheme
+	link Philophrosyne
+	link Pistis
+	link "The Oneiroi"
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava6
+		distance 389
+		period 53.2884
+	object
+		sprite planet/rock5
+		distance 705
+		period 79.2123
+	object
+		sprite planet/rock11
+		distance 1040
+		period 102.649
+	object NO-6551
+		sprite planet/forest4
+		distance 1358
+		period 122.631
+
+system Orithyia
+	pos -2823 -1904
+	government Uninhabited
+	belt 1311
+	link Aiakos
+	link Ioke
+	link Minos
+	link Phrike
+	object
+		sprite star/m0
+		period 10
+	object NO-1765
+		sprite planet/forest2
+		distance 389
+		period 53.2884
+	object
+		sprite planet/gas9
+		distance 698
+		period 78.6871
+	object
+		sprite planet/gas17
+		distance 1152
+		period 109.893
+	object
+		sprite planet/gas1
+		distance 1619
+		period 137.879
+	object
+		sprite planet/gas4
+		distance 2098
+		period 163.884
+
+system Palaemon
+	pos -3238 -2087
+	government Uninhabited
+	belt 1456
+	link Aristaeus
+	link Elpis
+	link Poros
+	link Praxidike
+	link Pyroeis
+	link "The Astra Planeti"
+	object
+		sprite star/m4
+		period 10
+	object NO-1095
+		sprite planet/forest6
+		distance 379
+		period 52.3712
+	object
+		sprite planet/gas12
+		distance 683
+		period 77.5557
+	object
+		sprite planet/gas4
+		distance 1149
+		period 109.702
+	object
+		sprite planet/gas12
+		distance 1613
+		period 137.538
+	object
+		sprite planet/gas11
+		distance 2071
+		period 162.475
+
+system Palioxis
+	pos -2829 -2261
+	government Uninhabited
+	belt 1278
+	link Aphaea
+	link Aura
+	link Eusebeia
+	object
+		sprite star/k0
+		period 10
+	object NO-5326
+		sprite planet/forest2
+		distance 361
+		period 50.6996
+	object
+		sprite planet/ice4
+		distance 700
+		period 78.8374
+	object
+		sprite planet/gas16
+		distance 1009
+		period 100.599
+	object
+		sprite planet/gas2
+		distance 1500
+		period 131.037
+	object
+		sprite planet/gas5
+		distance 1959
+		period 156.563
+
+system Pandia
+	pos -3304 -1698
+	government Uninhabited
+	belt 1355
+	link Achos
+	link Sterope
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock8
+		distance 342
+		period 48.9047
+	object
+		sprite planet/rock5
+		distance 679
+		period 77.2526
+	object NO-6288
+		sprite planet/forest6
+		distance 983
+		period 98.8634
+	object
+		sprite planet/dust2
+		distance 1319
+		period 120.272
+
+system Peitho
+	pos -3136 -2069
+	government Uninhabited
+	belt 1188
+	link Atalanta
+	link Elpis
+	link Eosphorus
+	link Eucleia
+	link Hemera
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas17
+		distance 349
+		period 49.5698
+	object
+		sprite planet/gas18
+		distance 809
+		period 86.8225
+	object
+		sprite planet/gas3
+		distance 1264
+		period 116.904
+	object
+		sprite planet/gas6
+		distance 1715
+		period 143.277
+
+system Penelope
+	pos -3074 -2324
+	government Uninhabited
+	belt 1380
+	link Circios
+	link Dysnomia
+	link Phaethon
+	link Stilbon
+	link "The Hesperides"
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava3
+		distance 363
+		period 50.8867
+	object
+		sprite planet/lava6
+		distance 661
+		period 75.8812
+	object
+		sprite planet/lava0
+		distance 966
+		period 97.7203
+	object
+		sprite planet/lava7
+		distance 1266
+		period 117.028
+	object
+		sprite planet/lava4
+		distance 1584
+		period 135.885
+
+system Penia
+	pos -2959 -2434
+	government Uninhabited
+	belt 1384
+	link Anaideia
+	link Eupheme
+	object
+		sprite star/f5-old
+		period 10
+	object
+		sprite planet/lava6
+		distance 353
+		period 49.9478
+	object
+		sprite planet/rock7
+		distance 670
+		period 76.5685
+	object
+		sprite planet/rock11
+		distance 960
+		period 97.3152
+	object NO-5161
+		sprite planet/forest2
+		distance 1250
+		period 116.04
+
+system Penthus
+	pos -2732 -1820
+	government Uninhabited
+	belt 1045
+	link Ania
+	link Antigone
+	link Lupe
+	link Phrike
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava6
+		distance 367
+		period 51.2599
+	object
+		sprite planet/lava3
+		distance 677
+		period 77.1008
+	object
+		sprite planet/lava3
+		distance 994
+		period 99.5996
+	object
+		sprite planet/lava5
+		distance 1334
+		period 121.182
+
+system Pepromene
+	pos -3463 -2004
+	government Uninhabited
+	belt 1073
+	link Semele
+	object
+		sprite star/k0
+		period 10
+	object NO-1834
+		sprite planet/forest6
+		distance 375
+		period 52.0021
+	object
+		sprite planet/rock1
+		distance 671
+		period 76.6446
+	object
+		sprite planet/gas19
+		distance 974
+		period 98.2591
+	object
+		sprite planet/gas6
+		distance 1443
+		period 127.696
+	object
+		sprite planet/gas9
+		distance 1916
+		period 154.264
+
+system Persephone
+	pos -3367 -1814
+	government Uninhabited
+	belt 1297
+	link Achos
+	link Corus
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock8
+		distance 374
+		period 51.9096
+	object
+		sprite planet/rock0
+		distance 671
+		period 76.6446
+	object NO-1076
+		sprite planet/forest4
+		distance 979
+		period 98.5951
+	object
+		sprite planet/desert1
+		distance 1287
+		period 118.318
+	object
+		sprite planet/rock16
+		distance 1589
+		period 136.17
+
+system Phaethon
+	pos -3027 -2389
+	government Uninhabited
+	belt 1050
+	link Dysnomia
+	link Eupheme
+	link Penelope
+	link "The Hesperides"
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas2
+		distance 342
+		period 48.9047
+	object
+		sprite planet/gas10
+		distance 800
+		period 86.1774
+	object
+		sprite planet/gas12
+		distance 1270
+		period 117.274
+	object
+		sprite planet/gas16
+		distance 1738
+		period 144.555
+
+system Pheme
+	pos -2671 -2112
+	government Uninhabited
+	belt 1340
+	link Aisa
+	link Notus
+	link Pistis
+	link Tenes
+	link "The Neikea"
+	link "The Oneiroi"
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava2
+		distance 381
+		period 52.5553
+	object
+		sprite planet/lava0
+		distance 683
+		period 77.5557
+	object
+		sprite planet/lava3
+		distance 1022
+		period 101.461
+	object
+		sprite planet/lava6
+		distance 1352
+		period 122.269
+
+system Philoctetes
+	pos -2711 -1682
+	government Uninhabited
+	belt 1162
+	link Clytemnestra
+	link Kydoimos
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock14
+		distance 372
+		period 51.7244
+	object
+		sprite planet/rock10
+		distance 703
+		period 79.0624
+	object NO-7699
+		sprite planet/forest6
+		distance 1012
+		period 100.798
+	object
+		sprite planet/rock13
+		distance 1332
+		period 121.061
+
+system Philophrosyne
+	pos -2813 -2142
+	government Uninhabited
+	belt 1314
+	link Aidos
+	link Aphaea
+	link Aura
+	link Celaeno
+	link Notus
+	object
+		sprite star/f5-old
+		period 10
+	object
+		sprite planet/lava4
+		distance 383
+		period 52.7391
+	object
+		sprite planet/rock13
+		distance 704
+		period 79.1374
+	object
+		sprite planet/rock2
+		distance 994
+		period 99.5996
+	object NO-6366
+		sprite planet/forest5
+		distance 1289
+		period 118.441
+
+system Phrike
+	pos -2759 -1893
+	government Uninhabited
+	belt 1043
+	link Aletheia
+	link Ioke
+	link Orithyia
+	link Penthus
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava2
+		distance 373
+		period 51.817
+	object
+		sprite planet/lava0
+		distance 707
+		period 79.3621
+	object
+		sprite planet/rock14
+		distance 1045
+		period 102.978
+	object
+		sprite planet/rock6
+		distance 1375
+		period 123.652
+	object
+		sprite planet/rock12
+		distance 1708
+		period 142.887
+
+system Pistis
+	pos -2703 -2175
+	government Uninhabited
+	belt 1090
+	link Aura
+	link Dionysus
+	link Notus
+	link Pheme
+	link Tenes
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava5
+		distance 368
+		period 51.3529
+	object
+		sprite planet/lava4
+		distance 688
+		period 77.9338
+	object
+		sprite planet/lava7
+		distance 1023
+		period 101.528
+	object
+		sprite planet/lava7
+		distance 1345
+		period 121.847
+
+system Plutus
+	pos -3165 -1704
+	government Uninhabited
+	belt 1023
+	link Aether
+	link Euthenia
+	object
+		sprite star/b5
+		period 10
+	object
+		sprite planet/lava3
+		distance 354
+		period 50.0421
+	object
+		sprite planet/lava1
+		distance 690
+		period 78.0847
+	object
+		sprite planet/lava7
+		distance 1003
+		period 100.2
+	object
+		sprite planet/lava6
+		distance 1334
+		period 121.182
+	object
+		sprite planet/lava3
+		distance 1650
+		period 139.633
+
+system Poine
+	pos -3275 -1817
+	government Uninhabited
+	belt 1270
+	link Achos
+	link Anemoi
+	link Attis
+	link Endymion
+	link Sterope
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava6
+		distance 379
+		period 52.3712
+	object
+		sprite planet/lava3
+		distance 684
+		period 77.6314
+	object
+		sprite planet/lava0
+		distance 1000
+		period 100
+	object
+		sprite planet/rock3
+		distance 1317
+		period 120.15
+	object
+		sprite planet/rock18
+		distance 1652
+		period 139.746
+
+system Polyxena
+	pos -2985 -2243
+	government Uninhabited
+	belt 1157
+	link Dysnomia
+	link Hymenaeus
+	link Lethe
+	object
+		sprite star/m4
+		period 10
+	object NO-3809
+		sprite planet/forest0
+		distance 357
+		period 50.3244
+	object
+		sprite planet/gas9
+		distance 657
+		period 75.5748
+	object
+		sprite planet/gas5
+		distance 1119
+		period 107.784
+	object
+		sprite planet/gas6
+		distance 1582
+		period 135.77
+	object
+		sprite planet/gas17
+		distance 2067
+		period 162.266
+
+system Poros
+	pos -3301 -2127
+	government Uninhabited
+	belt 1170
+	link Alastor
+	link Alcestis
+	link Aristaeus
+	link Palaemon
+	link Pyroeis
+	object
+		sprite star/m4
+		period 10
+	object NO-6294
+		sprite planet/forest3
+		distance 362
+		period 50.7932
+	object
+		sprite planet/gas7
+		distance 655
+		period 75.4213
+	object
+		sprite planet/gas3
+		distance 1135
+		period 108.809
+	object
+		sprite planet/gas16
+		distance 1613
+		period 137.538
+	object
+		sprite planet/gas7
+		distance 2084
+		period 163.154
+
+system Praxidike
+	pos -3209 -2023
+	government Uninhabited
+	belt 1389
+	link Elpis
+	link Hermione
+	link Iris
+	link Palaemon
+	link Pyroeis
+	object
+		sprite star/f5-old
+		period 10
+	object
+		sprite planet/lava1
+		distance 364
+		period 50.9801
+	object
+		sprite planet/rock17
+		distance 674
+		period 76.8729
+	object
+		sprite planet/rock19
+		distance 985
+		period 98.9975
+	object NO-5933
+		sprite planet/forest0
+		distance 1281
+		period 117.95
+
+system Proioxis
+	pos -2754 -2005
+	government Uninhabited
+	belt 1329
+	link Aidos
+	link Aletheia
+	link Ioke
+	link Iphigenia
+	link Limos
+	link "The Oneiroi"
+	object
+		sprite star/m4
+		period 10
+	object NO-5878
+		sprite planet/forest3
+		distance 383
+		period 52.7391
+	object
+		sprite planet/gas16
+		distance 698
+		period 78.6871
+	object
+		sprite planet/gas3
+		distance 1198
+		period 112.799
+	object
+		sprite planet/gas10
+		distance 1690
+		period 141.881
+	object
+		sprite planet/gas14
+		distance 2181
+		period 168.179
+
+system Prophasis
+	pos -2618 -2013
+	government Uninhabited
+	belt 1190
+	link Agathodaemon
+	link Mania
+	link "The Neikea"
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock5
+		distance 377
+		period 52.1868
+	object
+		sprite planet/rock6
+		distance 680
+		period 77.3284
+	object NO-1752
+		sprite planet/forest2
+		distance 976
+		period 98.3935
+	object
+		sprite planet/desert5
+		distance 1306
+		period 119.48
+
+system Ptocheia
+	pos -2904 -2064
+	government Uninhabited
+	belt 1021
+	link Celaeno
+	link Danaë
+	link Eiresione
+	link Homonoia
+	link "The Hysminai"
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock13
+		distance 365
+		period 51.0735
+	object
+		sprite planet/rock9
+		distance 655
+		period 75.4213
+	object NO-7441
+		sprite planet/forest6
+		distance 983
+		period 98.8634
+	object
+		sprite planet/rock7
+		distance 1316
+		period 120.089
+	object
+		sprite planet/desert7
+		distance 1639
+		period 139.012
+
+system Pyroeis
+	pos -3293 -2078
+	government Uninhabited
+	belt 1470
+	link Alastor
+	link Hermione
+	link Palaemon
+	link Poros
+	link Praxidike
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock12
+		distance 374
+		period 51.9096
+	object
+		sprite planet/rock4
+		distance 690
+		period 78.0847
+	object NO-7815
+		sprite planet/forest4
+		distance 1030
+		period 101.99
+	object
+		sprite planet/desert10
+		distance 1364
+		period 122.992
+	object
+		sprite planet/rock4
+		distance 1662
+		period 140.31
+
+system Sabazios
+	pos -3143 -2261
+	government Uninhabited
+	belt 1179
+	link Achlys
+	link Circios
+	link Cyamites
+	link Euronotus
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/lava2
+		distance 345
+		period 49.1903
+	object
+		sprite planet/lava1
+		distance 672
+		period 76.7208
+	object
+		sprite planet/rock4
+		distance 1005
+		period 100.333
+	object
+		sprite planet/rock14
+		distance 1339
+		period 121.484
+
+system Semele
+	pos -3396 -1962
+	government Uninhabited
+	belt 1025
+	link Atë
+	link Corus
+	link Pepromene
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock4
+		distance 383
+		period 52.7391
+	object
+		sprite planet/rock14
+		distance 691
+		period 78.1601
+	object NO-5225
+		sprite planet/forest5
+		distance 1010
+		period 100.666
+	object
+		sprite planet/dust7
+		distance 1310
+		period 119.724
+
+system Sterope
+	pos -3272 -1757
+	government Uninhabited
+	belt 1175
+	link Achos
+	link Aether
+	link Endymion
+	link Pandia
+	link Poine
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava0
+		distance 376
+		period 52.0945
+	object
+		sprite planet/rock13
+		distance 667
+		period 76.3397
+	object
+		sprite planet/rock11
+		distance 971
+		period 98.0572
+	object NO-2258
+		sprite planet/forest1
+		distance 1267
+		period 117.089
+
+system Stilbon
+	pos -3116 -2372
+	government Uninhabited
+	belt 1430
+	link Circios
+	link Penelope
+	link "The Hesperides"
+	object
+		sprite star/m0
+		period 10
+	object NO-4296
+		sprite planet/forest6
+		distance 350
+		period 49.6644
+	object
+		sprite planet/gas8
+		distance 687
+		period 77.8582
+	object
+		sprite planet/gas11
+		distance 1155
+		period 110.083
+	object
+		sprite planet/gas11
+		distance 1625
+		period 138.219
+
+system Tenes
+	pos -2637 -2180
+	government Uninhabited
+	belt 1287
+	link Aisa
+	link Arachne
+	link Pheme
+	link Pistis
+	object
+		sprite star/f5-old
+		period 10
+	object
+		sprite planet/lava2
+		distance 366
+		period 51.1667
+	object
+		sprite planet/rock9
+		distance 699
+		period 78.7623
+	object
+		sprite planet/rock19
+		distance 990
+		period 99.3322
+	object NO-6897
+		sprite planet/forest0
+		distance 1305
+		period 119.419
+	object
+		sprite planet/desert8
+		distance 1627
+		period 138.333
+
+system "The Amphilogiai"
+	pos -3012 -1822
+	government Uninhabited
+	belt 1274
+	link Apate
+	link Nike
+	link "The Litae"
+	link "The Phonoi"
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock4
+		distance 371
+		period 51.6316
+	object
+		sprite planet/rock18
+		distance 686
+		period 77.7827
+	object NO-5649
+		sprite planet/forest6
+		distance 983
+		period 98.8634
+	object
+		sprite planet/dust1
+		distance 1311
+		period 119.785
+	object
+		sprite planet/desert8
+		distance 1604
+		period 137.026
+
+system "The Arae"
+	pos -2776 -2344
+	government Uninhabited
+	belt 1380
+	link Caicias
+	link Nomos
+	object
+		sprite star/m0
+		period 10
+	object NO-2113
+		sprite planet/forest2
+		distance 356
+		period 50.2304
+	object
+		sprite planet/gas8
+		distance 685
+		period 77.707
+	object
+		sprite planet/gas1
+		distance 1135
+		period 108.809
+	object
+		sprite planet/gas2
+		distance 1619
+		period 137.879
+	object
+		sprite planet/gas15
+		distance 2088
+		period 163.363
+
+system "The Astra Planeti"
+	pos -3206 -2131
+	government Uninhabited
+	belt 1382
+	link Aristaeus
+	link Elpis
+	link Eucleia
+	link Euronotus
+	link Palaemon
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock11
+		distance 373
+		period 51.817
+	object
+		sprite planet/rock13
+		distance 708
+		period 79.4369
+	object NO-2436
+		sprite planet/forest6
+		distance 1026
+		period 101.726
+	object
+		sprite planet/rock17
+		distance 1322
+		period 120.454
+	object
+		sprite planet/dust3
+		distance 1625
+		period 138.219
+
+system "The Hesperides"
+	pos -3080 -2416
+	government Uninhabited
+	belt 1165
+	link Penelope
+	link Phaethon
+	link Stilbon
+	object
+		sprite star/k5
+		period 10
+	object NO-7083
+		sprite planet/forest1
+		distance 378
+		period 52.2791
+	object
+		sprite planet/ice6
+		distance 698
+		period 78.6871
+	object
+		sprite planet/gas11
+		distance 1029
+		period 101.924
+	object
+		sprite planet/gas8
+		distance 1517
+		period 132.025
+	object
+		sprite planet/gas2
+		distance 2006
+		period 159.057
+
+system "The Hysminai"
+	pos -2869 -2022
+	government Uninhabited
+	belt 1296
+	link Aidos
+	link Celaeno
+	link Eiresione
+	link Limos
+	link Ptocheia
+	object
+		sprite star/f5-old
+		period 10
+	object
+		sprite planet/lava1
+		distance 368
+		period 51.3529
+	object
+		sprite planet/rock9
+		distance 707
+		period 79.3621
+	object
+		sprite planet/rock1
+		distance 1000
+		period 100
+	object NO-2429
+		sprite planet/forest4
+		distance 1311
+		period 119.785
+
+system "The Leucippides"
+	pos -3206 -1931
+	government Uninhabited
+	belt 1030
+	link Attis
+	link Iris
+	link Lips
+	object
+		sprite star/m0
+		period 10
+	object NO-4161
+		sprite planet/forest2
+		distance 390
+		period 53.3797
+	object
+		sprite planet/gas7
+		distance 690
+		period 78.0847
+	object
+		sprite planet/gas10
+		distance 1185
+		period 111.981
+	object
+		sprite planet/gas5
+		distance 1651
+		period 139.69
+	object
+		sprite planet/gas1
+		distance 2107
+		period 164.352
+
+system "The Litae"
+	pos -2973 -1832
+	government Uninhabited
+	belt 1457
+	link Achilles
+	link "The Amphilogiai"
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava4
+		distance 345
+		period 49.1903
+	object
+		sprite planet/lava3
+		distance 680
+		period 77.3284
+	object
+		sprite planet/rock10
+		distance 997
+		period 99.7999
+	object
+		sprite planet/rock4
+		distance 1328
+		period 120.818
+
+system "The Machai"
+	pos -2955 -1679
+	government Uninhabited
+	belt 1044
+	link Alke
+	link Clotho
+	link Hesperus
+	link Koalemos
+	link Maia
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/lava2
+		distance 376
+		period 52.0945
+	object
+		sprite planet/rock8
+		distance 682
+		period 77.48
+	object
+		sprite planet/rock7
+		distance 983
+		period 98.8634
+	object NO-6228
+		sprite planet/forest1
+		distance 1289
+		period 118.441
+
+system "The Neikea"
+	pos -2621 -2061
+	government Uninhabited
+	belt 1270
+	link Aisa
+	link Pheme
+	link Prophasis
+	object
+		sprite star/m4
+		period 10
+	object NO-6027
+		sprite planet/forest0
+		distance 383
+		period 52.7391
+	object
+		sprite planet/gas10
+		distance 698
+		period 78.6871
+	object
+		sprite planet/gas9
+		distance 1153
+		period 109.956
+	object
+		sprite planet/gas9
+		distance 1620
+		period 137.936
+	object
+		sprite planet/gas15
+		distance 2084
+		period 163.154
+
+system "The Oneiroi"
+	pos -2731 -2080
+	government Uninhabited
+	belt 1140
+	link Aidos
+	link Notus
+	link Pheme
+	link Proioxis
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock7
+		distance 357
+		period 50.3244
+	object
+		sprite planet/rock10
+		distance 682
+		period 77.48
+	object NO-3329
+		sprite planet/forest5
+		distance 986
+		period 99.0645
+	object
+		sprite planet/rock18
+		distance 1295
+		period 118.808
+
+system "The Phonoi"
+	pos -3056 -1899
+	government Uninhabited
+	belt 1497
+	link Caerus
+	link Dikaiosyne
+	link Hera
+	link Nike
+	link "The Amphilogiai"
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/lava2
+		distance 377
+		period 52.1868
+	object
+		sprite planet/lava6
+		distance 675
+		period 76.9489
+	object
+		sprite planet/rock9
+		distance 1009
+		period 100.599
+	object
+		sprite planet/rock19
+		distance 1328
+		period 120.818
+	object
+		sprite planet/rock8
+		distance 1622
+		period 138.049
+
+system Thrace
+	pos -3114 -1781
+	government Uninhabited
+	belt 1325
+	link Apate
+	link Hedone
+	link Nike
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava0
+		distance 375
+		period 52.0021
+	object
+		sprite planet/lava5
+		distance 702
+		period 78.9874
+	object
+		sprite planet/lava2
+		distance 1016
+		period 101.064
+	object
+		sprite planet/rock11
+		distance 1327
+		period 120.757
+	object
+		sprite planet/rock3
+		distance 1622
+		period 138.049
+
+system Tyche
+	pos -3392 -2144
+	government Uninhabited
+	belt 1465
+	link Alastor
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock17
+		distance 366
+		period 51.1667
+	object
+		sprite planet/rock8
+		distance 688
+		period 77.9338
+	object NO-7220
+		sprite planet/forest0
+		distance 1005
+		period 100.333
+	object
+		sprite planet/rock7
+		distance 1325
+		period 120.636
+	object
+		sprite planet/desert4
+		distance 1623
+		period 138.106
+
+system Zephyrus
+	pos -2633 -1840
+	government Uninhabited
+	belt 1119
+	link Ania
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock10
+		distance 343
+		period 49
+	object
+		sprite planet/rock7
+		distance 641
+		period 74.3428
+	object NO-9735
+		sprite planet/forest2
+		distance 970
+		period 97.9899
+	object
+		sprite planet/dust0
+		distance 1305
+		period 119.419
+	object
+		sprite planet/dust6
+		distance 1601
+		period 136.855
+
+planet NO-0512
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-0702
+	attributes colonizable
+	landscape land/beach2
+	description `shallow seas cover the surface of this planet.`
+
+planet NO-0723
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-1076
+	attributes colonizable
+	landscape land/beach1
+	description `The warm desert that spans most of the planet has large sand dunes.`
+
+planet NO-1095
+	attributes colonizable
+	landscape land/beach1
+	description `giant mountains cover the surface of this planet.`
+
+planet NO-1156
+	attributes colonizable
+	landscape land/beach1
+	description `towering cliffs and deep ravines cover the surface of this planet.`
+
+planet NO-1388
+	attributes colonizable
+	landscape land/beach2
+	description `The scorched desert that spans most of the planet has low sand dunes.`
+
+planet NO-1646
+	attributes colonizable
+	landscape land/beach2
+	description `The burned desert that spans most of the planet has tall sand dunes.`
+
+planet NO-1672
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-1752
+	attributes colonizable
+	landscape land/beach2
+	description `The hot desert that spans most of the planet has tall sand dunes.`
+
+planet NO-1765
+	attributes colonizable
+	landscape land/beach1
+	description `deep oceans cover the surface of this planet.`
+
+planet NO-1792
+	attributes colonizable
+	landscape land/beach1
+	description `low mountains cover the surface of this planet.`
+
+planet NO-1834
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-1982
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-2101
+	attributes colonizable
+	landscape land/beach2
+	description `short mountains cover the surface of this planet.`
+
+planet NO-2113
+	attributes colonizable
+	landscape land/beach1
+	description `The warm desert that spans most of the planet has short sand dunes.`
+
+planet NO-2253
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-2258
+	attributes colonizable
+	landscape land/beach1
+	description `low cliffs and deep ravines cover the surface of this planet.`
+
+planet NO-2391
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-2429
+	attributes colonizable
+	landscape land/beach1
+	description `The hot desert that spans most of the planet has low sand dunes.`
+
+planet NO-2436
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-2457
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-2945
+	attributes colonizable
+	landscape land/beach2
+	description `The hot desert that spans most of the planet has large sand dunes.`
+
+planet NO-2951
+	attributes colonizable
+	landscape land/beach2
+	description `towering mountains cover the surface of this planet.`
+
+planet NO-2954
+	attributes colonizable
+	landscape land/beach1
+	description `shallow seas cover the surface of this planet.`
+
+planet NO-3019
+	attributes colonizable
+	landscape land/beach1
+	description `deep oceans cover the surface of this planet.`
+
+planet NO-3040
+	attributes colonizable
+	landscape land/beach2
+	description `short mountains cover the surface of this planet.`
+
+planet NO-3064
+	attributes colonizable
+	landscape land/beach2
+	description `The hot desert that spans most of the planet has large sand dunes.`
+
+planet NO-3329
+	attributes colonizable
+	landscape land/beach2
+	description `The burning desert that spans most of the planet has towering sand dunes.`
+
+planet NO-3334
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-3357
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-3487
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-3625
+	attributes colonizable
+	landscape land/beach2
+	description `little mountains cover the surface of this planet.`
+
+planet NO-3703
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-3809
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-3930
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-3937
+	attributes colonizable
+	landscape land/beach1
+	description `The burning desert that spans most of the planet has large sand dunes.`
+
+planet NO-4161
+	attributes colonizable
+	landscape land/beach1
+	description `The burned desert that spans most of the planet has tall sand dunes.`
+
+planet NO-4190
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-4296
+	attributes colonizable
+	landscape land/beach2
+	description `The burning desert that spans most of the planet has low sand dunes.`
+
+planet NO-4356
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-4371
+	attributes colonizable
+	landscape land/beach1
+	description `The scorched desert that spans most of the planet has short sand dunes.`
+
+planet NO-5026
+	attributes colonizable
+	landscape land/beach2
+	description `low cliffs and deep ravines cover the surface of this planet.`
+
+planet NO-5161
+	attributes colonizable
+	landscape land/beach1
+	description `The hot desert that spans most of the planet has little sand dunes.`
+
+planet NO-5225
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-5326
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-5522
+	attributes colonizable
+	landscape land/beach1
+	description `The scorched desert that spans most of the planet has giant sand dunes.`
+
+planet NO-5648
+	attributes colonizable
+	landscape land/beach1
+	description `low cliffs and deep ravines cover the surface of this planet.`
+
+planet NO-5649
+	attributes colonizable
+	landscape land/beach2
+	description `deep oceans cover the surface of this planet.`
+
+planet NO-5727
+	attributes colonizable
+	landscape land/beach2
+	description `dotted archipelagos cover the surface of this planet.`
+
+planet NO-5878
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-5933
+	attributes colonizable
+	landscape land/beach2
+	description `The burning desert that spans most of the planet has low sand dunes.`
+
+planet NO-6027
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-6201
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-6228
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-6288
+	attributes colonizable
+	landscape land/beach2
+	description `giant mountains cover the surface of this planet.`
+
+planet NO-6294
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-6366
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-6551
+	attributes colonizable
+	landscape land/beach1
+	description `The scorched desert that spans most of the planet has giant sand dunes.`
+
+planet NO-6584
+	attributes colonizable
+	landscape land/beach2
+	description `giant cliffs and deep ravines cover the surface of this planet.`
+
+planet NO-6897
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-7031
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-7083
+	attributes colonizable
+	landscape land/beach1
+	description `shallow seas cover the surface of this planet.`
+
+planet NO-7220
+	attributes colonizable
+	landscape land/beach2
+	description `The scorched desert that spans most of the planet has low sand dunes.`
+
+planet NO-7386
+	attributes colonizable
+	landscape land/beach1
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-7441
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-7577
+	attributes colonizable
+	landscape land/beach1
+	description `The scorched desert that spans most of the planet has short sand dunes.`
+
+planet NO-7699
+	attributes colonizable
+	landscape land/beach2
+	description `The warm desert that spans most of the planet has giant sand dunes.`
+
+planet NO-7804
+	attributes colonizable
+	landscape land/beach1
+	description `The burned desert that spans most of the planet has tall sand dunes.`
+
+planet NO-7815
+	attributes colonizable
+	landscape land/beach2
+	description `The searing desert that spans most of the planet has towering sand dunes.`
+
+planet NO-7838
+	attributes colonizable
+	landscape land/beach1
+	description `The burning desert that spans most of the planet has large sand dunes.`
+
+planet NO-7997
+	attributes colonizable
+	landscape land/beach1
+	description `tall mountains cover the surface of this planet.`
+
+planet NO-8724
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-8795
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+
+planet NO-9118
+	attributes colonizable
+	landscape land/beach2
+	description `shallow seas cover the surface of this planet.`
+
+planet NO-9237
+	attributes colonizable
+	landscape land/beach1
+	description `The hot desert that spans most of the planet has little sand dunes.`
+
+planet NO-9282
+	attributes colonizable
+	landscape land/beach1
+	description `shallow seas cover the surface of this planet.`
+
+planet NO-9639
+	attributes colonizable
+	landscape land/beach1
+	description `The burning desert that spans most of the planet has towering sand dunes.`
+
+planet NO-9649
+	attributes colonizable
+	landscape land/beach2
+	description `shallow seas cover the surface of this planet.`
+
+planet NO-9735
+	attributes colonizable
+	landscape land/beach2
+	description `The searing desert that spans most of the planet has low sand dunes.`
+
+planet NO-9976
+	attributes colonizable
+	landscape land/beach2
+	description `This frozen world has a thin atmosphere and a low population.`
+

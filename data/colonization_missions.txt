@@ -1,0 +1,50 @@
+planet Propylaea
+	attributes "requires: quantum keystone"
+	description ""
+
+event "connect new galaxy"
+	system "Terminus"
+		add object "Propylaea"
+			sprite planet/wormhole-red
+			distance 8203.06
+			period 6041.77
+	system "Aether"
+		add attributes "wormhole"
+		add object "Propylaea"
+			sprite planet/wormhole-red
+			distance 3384.82
+			period 1216.37
+
+mission "Scientific investigation"
+	name "Scientific investigation"
+	description "A small group of scientists have noticed an unusual object near the Terminus system causing extreme gravitational lensing. Help them check it out"
+	passengers 3 12
+	job
+	waypoint Terminus
+	on offer
+		event "connect new galaxy"
+	on enter Terminus
+		dialog "The scientists huddle up near the windows of the ship in awe. It seems like a new wormhole has been discovered."
+	on complete
+		log `helped some scientists research a new wormhole`
+		payment 12500
+		dialog "The scientists thank you for your assistance and give you a handful of small credit chips."
+
+
+mission "Colonize <system>"
+	name "Colonize <system>"
+	description "Transport <bunks> colonists along with <cargo> to <planet> ."
+	cargo "supplies" 60 1000 0.66
+	passengers 260 320 0.71
+	job
+	repeat
+	to offer
+		has "event: connect new galaxy"
+		not "Colonize <system>: done"
+	source
+		near Sol 0 200
+	destination
+		attributes colonizable
+	on complete
+		payment 212500 71
+		event "colonize <system>" 5 12
