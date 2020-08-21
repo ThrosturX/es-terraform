@@ -29,3 +29,56 @@ Note: systems start out as "Independent" but some of them change
 -   Near the far reaches of accessible space, there should be an "aliens A" trading hub or two. 
 -   Further than the "aliens A" trading hub, there should be space where hostile aliens live.
     -> Backstory: the "Aliens A" settlement are escaped slaves from hostile alien slavers, their homeworlds are somewhere else, perhaps slightly further and to the side from the hostile aliens
+-   The space shouldn't be too big, but be rather empty to begin with. Few systems have uninhabited planets, less than half.
+    -> "Most" systems (between 2/3 or 4/5) will eventually be habitable, but many planets need to be terraformed
+
+# New missions:
+1. Discover new region of space
+2. Atmospheric surveillance missions (visit systems, let NPC's scan atmosphere of planets), return to base
+3. Geological survey mission (land on a single planet, leads to transport equipment)
+4. Transport equipment mission (land on same planet, bulk cargo mission, leads to transport settlers) -- Adds a spaceport to the planet
+5. Bring first settlers mission (various settlement sizes, start with smaller sizes, allow larger sizes after a delay triggered by numSuccessfulWorldsSettled or something like that, sizes tied to worlds, passengers + carge) -- adds trading
+    -> SOME WORLDS might require relief, lest they turn pirate. Invisible mission that offers "Relief for <planet>" mission which must be completed within <time> to prevent the world from becoming pirate.
+    -> The timespan for the mission should be long. They know what they signed up for, but they still need their aid at some point.
+    -> A select few worlds will be destined to turn pirate
+5a. Transport colonists mission (passengers + cargo of pretty random size, but large) (isn't required for 6)
+    -> Adds the outfitter attribute and "basic outfits"
+    -> Pay is probably pretty good
+    -> repeating mission that doesn't add more basic outfits
+Each mission carries with it a delay that introduces pirates (human)
+--- At this point, storylines based on what has been settled ---
+6. Once "the mining planet" has been settled: 
+    * Mining planet should have cheap food and clothing, but everything else is expensive*
+    Seems like the asteroids here are really rich in metals. Maybe a couple of survey missions to figure that out.
+    Leads to escort mining ships mission. Escort ships to the mining world.
+    At some point here there is a delay, end the government changes to the "mining company"
+    Leads to constructing a space station, once built lowers cost of metals and heavy metals significantly. Slightly lowers cost of equipment and industrial.
+    After a delay, you are invited to a shipyard opening on the space station. The ships are mostly modified human ships, specced out for mining and cargo transport. The ships are large and slow, but carry "fighters" for mining and harvesting.
+    -> Eventually, due to piracy threat, they will also carry defensive fighters, or have some other defensive capabilities. (new variants)
+7. Once the "deliver planet" has been settled:
+    * Plastics should be fairly cheap *
+    A storyline about some interesting character that wants to start a shipping company for whatever good reason, but needs help getting it off the ground.
+    Some delivery missions, under the guise of marketing.
+    concurrent delay: government changes to "delivery company" -> leads to 8
+    Some escort missions, to help train the new delivery boys.
+    Repeating missions in JB, generic delivery missions, always with a time limit but mostly lax ones.
+    After a delay, a new shipyard opens, story about testing new delivery ship (which is actually just a variant ship with extremely little weapon space and a lot, A LOT of engine space and a scram drive, or modified scram drive).
+    More delays, you get a message when you visit the outfitter or the shipyard "Oh, we made a general version of the thing that we did to <ship X>, you can buy it in outfitter". Two outfits: One converts weapons space to engine space, one is a more space efficient outfit expansion with severe drawbacks (more heat?)
+
+8.  After delivery planet has become a company.
+    Long-ass delay, a new system is discoverable. Figure out a good reason why it wasn't before. Probably there was some kind of cosmic thing happening distorting hyperlinks.
+    -> It's "Aliens A"!
+    -> New ships, no license, but a bit expensive
+        -> mostly cargo ships, small and medium sized
+        -> A couple of combat ships, interceptor and light warship maybe
+    -> New outfits
+        -> Pretty bad, but better than the cheap human stuff
+        -> When they are significantly better than human things in one area, there's an annoying tradeoff
+        -> Their weapons are low-tiered weapons to immobilize and disable targets, because they are opportunists
+        -> They are really good at escaping, antimissile + engines I guess
+    Alien presence slowly becomes more and more apparent, but they don't speak english yet
+    At some point you are sent as an envoy on a diplomatic mission to the aliens, communication is hard but you realize they are merchants and want to trade
+    Another long-ass delay. The aliens now speak english, it's pretty bad but they picked it up over the.. months? years?
+
+Delivery company is requirement to meeting the hostile aliens.
+Somehow we should make the mining side-story more exciting, warships that carry new things?
