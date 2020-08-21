@@ -1,0 +1,31 @@
+### Notes for this "plugin", hopefully mergable content
+
+## New factions/government:
+Note: systems start out as "Independent" but some of them change
+-   mining company
+-   delivery company
+-   hostile aliens, slavers
+    -> They learn english after "a long time", due to having captured some delivery boys or something
+    -> Split into 2 or 3 "clans", differences are small, 1-2 major technology/ship unqiue to each clan
+        * All are brave/heroic, don't care about loot and spoils, only about winning fights
+        * One clan opposes slavery and has lower crew requirements
+        * One clan has better engines, but no turret mounts (or max 1-2 on the biggest ships)
+        * One clan focuses on "boarding vessels", a secondary weapon whose ammunition requires crew (and that crew is expended when the weapon is fired) (alternatively, the ammunition is a boarding drone filled with slaves)
+            -> boarding vessels have high shield piercing and do hull damage. Hopefully also kill some crew after a time.
+        * Shields are weak, like very weak, hull is strong to compensate
+        * Slaves being popular and accessible increase required crew count for ships for that faction
+-   aliens A:
+    -   friendly merchants
+    -   hostile pirates
+    -   Eventually learn english from doing business with the new human settlements
+    -   Fairly bad technology, but some of it is upgrade from human technology
+
+## New space:
+-   New space is accessed either by wormhole directly, or by traveling along a fairly long "corridor" after jumping through a wormhole
+-   A couple of systems should be for mining, and a new government "mining company" will settle there
+-   Some systems get named after original settlers, like "Jayne's World"
+-   Near the entry system, there should be a settled delivery company
+-   Most systems that can be settled stay "Independent" indefinitely (future content) or get converted into Pirate worlds after a timer (systems in "unpopular" places, near edges and so on)
+-   Near the far reaches of accessible space, there should be an "aliens A" trading hub or two. 
+-   Further than the "aliens A" trading hub, there should be space where hostile aliens live.
+    -> Backstory: the "Aliens A" settlement are escaped slaves from hostile alien slavers, their homeworlds are somewhere else, perhaps slightly further and to the side from the hostile aliens
