@@ -1,5 +1,6 @@
+
 system Achilles
-	pos -2908 -1865
+	pos -2926 -1872
 	government Uninhabited
 	belt 1243
 	link Aiakos
@@ -453,7 +454,6 @@ system Anemoi
 	government Uninhabited
 	belt 1259
 	link Attis
-	link Atë
 	link Corus
 	link Iris
 	link Poine
@@ -512,34 +512,41 @@ system Ania
 system Antigone
 	pos -2737 -1770
 	government Uninhabited
-	belt 1489
+	belt 1588
 	link Ania
 	link Kydoimos
 	link Lupe
 	link Penthus
+	asteroids "small rock" 1 2.53
+	asteroids "large rock" 1 3.212
+	asteroids "medium metal" 10 1.122
+	asteroids "large metal" 3 2.09
+	minables aluminum 1 2.22717
+	minables iron 1 2.98454
+	minables lead 3 2.94892
 	object
 		sprite star/m4
 		period 10
 	object NO-3064
 		sprite planet/forest1
 		distance 387
-		period 53.1056
+        period 53.1056
 	object
 		sprite planet/gas7
 		distance 712
-		period 79.7358
+        period 79.7358
 	object
 		sprite planet/gas11
 		distance 1176
-		period 111.414
+        period 111.414
 	object
 		sprite planet/gas9
 		distance 1647
-		period 139.464
+        period 139.464
 	object
 		sprite planet/gas11
 		distance 2110
-		period 164.508
+        period 164.508
 
 system Apate
 	pos -3045 -1776
@@ -755,39 +762,6 @@ system Attis
 		sprite planet/gas16
 		distance 2102
 		period 164.092
-
-system Atë
-	pos -3329 -1955
-	government Uninhabited
-	belt 1113
-	link Anemoi
-	link Corus
-	link Hermione
-	link Iris
-	link Semele
-	object
-		sprite star/k0
-		period 10
-	object NO-7997
-		sprite planet/forest2
-		distance 381
-		period 52.5553
-	object
-		sprite planet/rock15
-		distance 674
-		period 76.8729
-	object
-		sprite planet/gas12
-		distance 977
-		period 98.4607
-	object
-		sprite planet/gas7
-		distance 1463
-		period 128.873
-	object
-		sprite planet/gas3
-		distance 1913
-		period 154.103
 
 system Aura
 	pos -2781 -2197
@@ -1062,7 +1036,6 @@ system Corus
 	government Uninhabited
 	belt 1331
 	link Anemoi
-	link Atë
 	link Persephone
 	link Semele
 	object
@@ -1787,7 +1760,6 @@ system Hermione
 	pos -3308 -2009
 	government Uninhabited
 	belt 1338
-	link Atë
 	link Iris
 	link Praxidike
 	link Pyroeis
@@ -1972,7 +1944,6 @@ system Ioke
 	pos -2795 -1961
 	government Uninhabited
 	belt 1348
-	link Iphigenia
 	link Limos
 	link Orithyia
 	link Phrike
@@ -2007,7 +1978,6 @@ system Iphigenia
 	belt 1087
 	link Agathodaemon
 	link Aletheia
-	link Ioke
 	link Proioxis
 	object
 		sprite star/f0
@@ -2039,7 +2009,6 @@ system Iris
 	belt 1038
 	link Anemoi
 	link Attis
-	link Atë
 	link Hermione
 	link Praxidike
 	link "The Leucippides"
@@ -3271,7 +3240,6 @@ system Semele
 	pos -3396 -1962
 	government Uninhabited
 	belt 1025
-	link Atë
 	link Corus
 	link Pepromene
 	object
@@ -3569,7 +3537,7 @@ system "The Leucippides"
 		period 164.352
 
 system "The Litae"
-	pos -2973 -1832
+	pos -2964 -1836
 	government Uninhabited
 	belt 1457
 	link Achilles
@@ -3942,7 +3910,7 @@ planet NO-3040
 planet NO-3064
 	attributes colonizable
 	landscape land/beach2
-	description `The hot desert that spans most of the planet has large sand dunes.`
+	description `Antigone's planet has a landscape largely shaped by craters that have eroded by the weather and local flora. The atmosphere is pretty thin but rich in oxygen to compensate, making it feasible and actually quite pleasant to breathe.`
 
 planet NO-3329
 	attributes colonizable

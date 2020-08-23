@@ -302,7 +302,7 @@ event "colonize Antigone"
 	planet "NO-3064"
 		remove attributes "colonizable"
 		add attributes "colonized"
-		spaceport `The spaceport is nothing more than a large platform with a couple of tents and some crates and containers`
+		spaceport `The titanium landing pads look like they could withstand almost anything. There are a few businesses and restaurants scattered around the spaceport, but more noticeable is the intricate railway system which seems to have been designed to transport cargo directly from landed ships.`
 
 event "colonize Apate"
 	system "Apate"
